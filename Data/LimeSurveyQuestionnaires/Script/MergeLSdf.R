@@ -27,4 +27,3 @@ dRecr <- dQ[c("Mail1", "Contactable", "Age", "Gender", "GAS")]
 write.table(dQ, paste0(Output_path, "dQuestionnaireTot.txt"), sep = "\t", dec = ".", col.names = T, row.names = F)
 write_xlsx(dQ, paste0(Output_path, "dQuestionnaireTot.xlsx"))
 write_xlsx(dQ, "dRecrutement.xlsx")
-
