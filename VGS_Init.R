@@ -57,7 +57,7 @@ for (Fun in dir("Functions/")) {
 }
 
 ##### List of badly spelled email by participant
-MailToChange <- list()
+MailToChange <- list(NA)
 
 
 ##### List of participant who gave two different ages for LS1 and LS2

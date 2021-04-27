@@ -12,6 +12,36 @@ PSToRemove <- c(dir(Datapath, pattern = ".log.gz"),
                 dir(Datapath, pattern = ".log"),
                 dir(Datapath, pattern = ".psydat"),
                 dir(Datapath, pattern = ".xlsx"),
+                
+                # Test
+                "1_VideoGameExperimentOrderB_2020_Dec_21_1057.csv",
+                "PARTICIPANT_VideoGameExperiment_2020-12-23_09h12.39.530.csv",
+                "PARTICIPANT_VideoGameExperiment_2020-12-30_11h52.14.257.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-01-04_17h36.00.501.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-01-28_18h01.13.418.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-08_12h51.02.431.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-15_15h46.44.696.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-16_16h33.20.329.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-16_18h34.01.832.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-17_00h06.47.703.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-17_14h51.53.609.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-17_15h59.24.075.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-17_20h23.01.088.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-17_21h12.21.997.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-18_19h22.10.073.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-22_22h45.44.782.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-23_19h27.58.213.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-23_20h32.32.797.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-23_20h47.33.302.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-23_21h00.52.858.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-23_21h06.37.193.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-24_11h01.47.124.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-25_16h15.24.885.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-27_17h58.24.696.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-02-27_18h01.34.950.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-03-01_22h27.56.945.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-03-09_10h54.26.322.csv",
+                
                 # Empty df
                 "PARTICIPANT_VideoGameExperiment_2020-12-21_12h24.29.717.csv",
                 "PARTICIPANT_VideoGameExperiment_2021-02-09_22h32.37.987.csv",
@@ -87,8 +117,25 @@ dt <- dir(Datapath)
 ParticipantToKeep <- !(dt %in% PSToRemove)
 PS <- dt[ParticipantToKeep]
 
+dTot <- data.frame()
 Mail = c()
 Compt = 1
 
 for (i in PS) {
-  d <- read.csv(paste0(Datapath, i))}
+  d <- read.csv(paste0(Datapath, i))
+  Mail[Compt] <- d$Email[1]
+  order <- d$expName[1]
+  
+  # Change email if needed
+  if (d$Email[1] %in% names(MailToChange)){
+    d$Email[1] <- MailToChange[[d$Email[1]]]
+    Mail[Compt] <- d$Email[1]
+  }
+  
+  dTot <- rbind(dTot, d)
+  Compt = Compt + 1
+}
+
+
+dMail1 = data.frame(Mail)
+i
