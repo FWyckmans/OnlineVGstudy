@@ -1,6 +1,7 @@
 # Anonymity
 Data/LimeSurveyQuestionnaires/RawData/
 Data/Pavlovia/RawData/
+AdditionalInfo/MailList/
 
 # History files
 .Rhistory
