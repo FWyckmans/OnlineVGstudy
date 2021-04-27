@@ -149,6 +149,7 @@ dMPOG <- dMPOG%>%
 dF <- select(dLS1, NS, Mail1, Grp, Order, Age, Gender, StudyLvl, Work, Contactable, DrugUse, GAS, OL, MainGame, LastSession)
 dF <- cbind(dF, dMPOG[41:length(dMPOG)])
 dMailLS1 <- select(dLS1, Mail1)
+dAge <- dLS1[, c(1, 2, 3)]
 
 # Export
 write.table(dF, paste0(Output_path, "dLS1.txt"), col.names = T, row.names = F, sep = "\t", dec = ".")
