@@ -242,6 +242,7 @@ for (i in PS) {
   
   dVal <- rbind(dVal, dVALt)
 
+  print(Mail[Compt])
   ##### Update Compt
   Compt = Compt + 1
 }
@@ -250,3 +251,9 @@ dGnG <- filter(dGnG, nTrial == 240)
 dDOT <- filter(dDOT, nTrial == 96)
 dVal <- filter(dVal, nTrial == 24)
 dMail1 = data.frame(Mail)
+
+dPav <- cbind(dGnG, dDOT[dDOT$Email%in%dGnG$Email,3:6], dVal[dVal$Email %in% dGnG$Email, 3:4])
+
+
+##### Write table
+write.table(dPav, paste0(Output_path, "dPav.txt"), col.names = T, row.names = F, sep = "\t", dec = ".")
