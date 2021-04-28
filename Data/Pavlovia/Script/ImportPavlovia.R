@@ -235,6 +235,9 @@ for (i in PS) {
   dVALt <- dVALt[complete.cases(dVALt$Trial),]
   dVALt$Trial <- dVALt$Trial + 1
   
+  # Change email to match LS
+  dVALt$Email <- Mail[Compt]
+  
   # Compute nTrial
   dVALt <- AddDummyCol(dVALt, "nTrial")
   dVALt$nTrial <- max(dVALt$Trial)
@@ -249,6 +252,7 @@ for (i in PS) {
   dVal <- rbind(dVal, dVALt)
 
   print(Mail[Compt])
+  
   ##### Update Compt
   Compt = Compt + 1
 }

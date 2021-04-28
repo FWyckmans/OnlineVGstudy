@@ -57,7 +57,7 @@ for (Fun in dir("Functions/")) {
 }
 
 ##### List of badly spelled email by participant
-MailToChange <- list(NA)
+MailToChange <- list("Alexdrg18@gmail.com" = "alexdrg18@gmail.com")
 
 
 ##### List of participant who gave two different ages for LS1 and LS2
