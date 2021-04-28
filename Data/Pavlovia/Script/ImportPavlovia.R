@@ -166,15 +166,21 @@ for (i in PS) {
 
   # Final GnG frame
   dGnGt <- dGnGt%>%
-    group_by(Email, TaskType, nTrial, TrialType)%>%
+    group_by(Email, TaskType, nTrial, TrialType, Primer)%>%
     summarise(Acc = mean(Accuracy, na.rm = T), RT = mean(RT, na.rm = T), .groups = 'drop')%>%
+    unite("Trial", Primer:TrialType, sep = "_")%>%
     unite("Acc_RT", Acc:RT, sep = "_")%>%
-    spread(key = TrialType, value = Acc_RT)%>%
-    separate(Go, c("Acc_Go", "RT_Go"), sep = "_")%>%
-    separate(NoGo, c("Acc_NoGo", "RT_NoGo"), sep = "_")%>%
-    select(Email, TaskType, nTrial, Acc_Go, Acc_NoGo, RT_Go, RT_NoGo)
+    spread(key = Trial, value = Acc_RT)%>%
+    separate(Gaming_Go, c("Acc_Gaming_Go", "RT_Gaming_Go"), sep = "_")%>%
+    separate(Gaming_NoGo, c("Acc_Gaming_NoGo", "RT_Gaming_NoGo"), sep = "_")%>%
+    separate(Neutral_Go, c("Acc_Neutral_Go", "RT_Neutral_Go"), sep = "_")%>%
+    separate(Neutral_NoGo, c("Acc_Neutral_NoGo", "RT_Neutral_NoGo"), sep = "_")%>%
+    select(Email, TaskType, nTrial,
+           Acc_Gaming_Go, Acc_Gaming_NoGo, Acc_Neutral_Go, Acc_Neutral_NoGo,
+           RT_Gaming_Go, RT_Gaming_NoGo, RT_Neutral_Go, RT_Neutral_NoGo)
 
-  dGnGt$RT_NoGo[dGnGt$RT_NoGo == "NaN"] <- NA
+  dGnGt$RT_Gaming_NoGo[dGnGt$RT_Gaming_NoGo == "NaN"] <- NA
+  dGnGt$RT_Neutral_NoGo[dGnGt$RT_Neutral_NoGo == "NaN"] <- NA
 
   dGnG <- rbind(dGnG, dGnGt)
   
@@ -250,10 +256,11 @@ for (i in PS) {
 dGnG <- filter(dGnG, nTrial == 240)
 dDOT <- filter(dDOT, nTrial == 96)
 dVal <- filter(dVal, nTrial == 24)
-dMail1 = data.frame(Mail)
+dMail1 <- data.frame(Mail)
 
-dPav <- cbind(dGnG, dDOT[dDOT$Email%in%dGnG$Email,3:6], dVal[dVal$Email %in% dGnG$Email, 3:4])
+dPav <- cbind(dGnG[,-3], dDOT[dDOT$Email%in%dGnG$Email,3:6], dVal[dVal$Email %in% dGnG$Email, 3:4])
 
 
 ##### Write table
 write.table(dPav, paste0(Output_path, "dPav.txt"), col.names = T, row.names = F, sep = "\t", dec = ".")
+write.table(dMail1, "AdditionalInfo/MailList/dMailPav.txt", col.names = T, row.names = F, sep = "\t", dec = ".")
