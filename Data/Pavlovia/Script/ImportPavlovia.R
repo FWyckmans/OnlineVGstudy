@@ -52,6 +52,8 @@ PSToRemove <- c(dir(Datapath, pattern = ".log.gz"),
                 "PARTICIPANT_VideoGameExperiment_2021-04-13_19h10.11.623.csv",
                 "PARTICIPANT_VideoGameExperiment_2021-04-15_14h30.38.643.csv",
                 "PARTICIPANT_VideoGameExperiment_2021-04-15_14h30.40.880.csv",
+                "PARTICIPANT_VideoGameExperimentOrderB_2020-12-21_13h48.13.473.csv",
+                "PARTICIPANT_VideoGameExperimentOrderB_2021-02-08_14h47.44.844.csv",
 
                 
                 # Empty df
@@ -163,7 +165,7 @@ for (i in PS) {
   } else {
     dGnGt$TaskType <- "Gaming_Go"
   }
-
+  
   # Final GnG frame
   dGnGt <- dGnGt%>%
     group_by(Email, TaskType, nTrial, TrialType, Primer)%>%
