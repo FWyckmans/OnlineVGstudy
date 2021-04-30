@@ -96,6 +96,18 @@ PSToRemove <- c(dir(Datapath, pattern = ".log.gz"),
                 "PARTICIPANT_VideoGameExperimentOrderB_2021-04-15_19h34.24.755.csv",
                 "PARTICIPANT_VideoGameExperimentOrderB_2021-04-15_19h36.21.972.csv",
                 "PARTICIPANT_VideoGameExperimentOrderB_2021-04-15_19h37.46.565.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-03-31_12h38.02.119.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-04-01_20h35.00.286.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-04-15_17h19.29.428.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-04-15_17h19.40.016.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-04-15_17h20.08.832.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-04-15_17h20.35.278.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-04-15_17h21.10.287.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-04-15_17h21.37.356.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-04-15_17h35.22.782.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-04-15_17h35.28.016.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-04-15_18h36.51.760.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-04-17_14h17.26.205.csv",
                 
                 # Not finished
                 "PARTICIPANT_VideoGameExperiment_2021-03-26_12h56.53.257.csv", #Vulcana
@@ -270,3 +282,4 @@ dPav <- cbind(dGnG[,-3], dDOT[dDOT$Email%in%dGnG$Email,3:6], dVal[dVal$Email %in
 ##### Write table
 write.table(dPav, paste0(Output_path, "dPav.txt"), col.names = T, row.names = F, sep = "\t", dec = ".")
 write.table(dMail1, "AdditionalInfo/MailList/dMailPav.txt", col.names = T, row.names = F, sep = "\t", dec = ".")
+i
