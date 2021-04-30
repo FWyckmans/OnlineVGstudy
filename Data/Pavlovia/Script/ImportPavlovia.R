@@ -282,4 +282,3 @@ dPav <- cbind(dGnG[,-3], dDOT[dDOT$Email%in%dGnG$Email,3:6], dVal[dVal$Email %in
 ##### Write table
 write.table(dPav, paste0(Output_path, "dPav.txt"), col.names = T, row.names = F, sep = "\t", dec = ".")
 write.table(dMail1, "AdditionalInfo/MailList/dMailPav.txt", col.names = T, row.names = F, sep = "\t", dec = ".")
-i

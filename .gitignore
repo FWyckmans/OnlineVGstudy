@@ -5,6 +5,7 @@ Data/Pavlovia/RawData/
 Data/Pavlovia/ProcessedData/
 AdditionalInfo/MailList/
 dRecrutement.xlsx
+Temp/
 
 # History files
 .Rhistory
