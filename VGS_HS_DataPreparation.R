@@ -8,3 +8,5 @@ source("Data/LimeSurveyQuestionnaires/Script/MergeLSdf.R")
 source("Data/Pavlovia/Script/ImportPavlovia.R")
 
 source("Data/MergeAll.R")
+
+source("AdditionalInfo/MailList/MailCheck.R")

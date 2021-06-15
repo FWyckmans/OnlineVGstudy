@@ -140,3 +140,11 @@
 328	"m.richer6@hotmail.fr"	"PG"	"B"	27	"Male"	17	"Executive"	"Yes"	"No"	5	"Online"	"MMORPG"	"A6"	21	15	16	17	9	13	13	8	6	8
 329	"nico.papet@orange.fr"	"HC"	"B"	25	"Male"	17	"Executive"	"No"	"Yes"	2	"Online"	"MMORPG"	"A6"	14	15	6	14	9	14	5	7	9	7
 335	"victoria.poupart@hotmail.com"	"HC"	"A"	24	"Female"	15	"Student"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+336	"chaks_2222@hotmail.fr"	"PG"	"B"	33	"Male"	12	"Executive"	"Yes"	"Yes"	6	"Online"	"MMORPG"	"A3"	18	18	7	19	8	17	7	8	5	7
+339	"derechter.t@gmail.com"	"PG"	"A"	32	"Male"	15	"Employee"	"No"	"Yes"	5	"Offline"	"MMORPG"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+340	"javiera.leiva@mail.udp.cl"	"HC"	"A"	26	"Female"	15	"Student"	"Yes"	"Yes"	1	"Offline"	"FPS"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+341	"lumatte@hotmail.com"	"PG"	"B"	23	"Male"	12	"Student"	"Yes"	"Yes"	6	"Online"	"MOBA"	"A6"	18	13	12	15	9	11	9	15	8	7
+344	"Assadabdulkader@gmail.com "	"HC"	"B"	35	"Male"	15	"Student"	"Yes"	"No"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+345	"assadabdulkader@gmail.com"	"HC"	"B"	35	"Male"	15	"Student"	"Yes"	"No"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+346	"marylou.petre@gmail.com"	"PG"	"B"	21	"Female"	12	"Student"	"Yes"	"Yes"	4	"Online"	"MMORPG"	"A6"	20	7	13	10	7	11	10	12	11	13
+347	"tristandariouch@hotmail.com"	"HC"	"B"	25	"Male"	17	"Unemployed"	"Yes"	"Yes"	1	"Both"	"RPG"	"A6"	10	7	12	6	3	9	8	7	4	7

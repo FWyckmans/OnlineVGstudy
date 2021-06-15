@@ -94,3 +94,10 @@
 100	"neru_pala@hotmail.fr"	1	1	1	25	14	53	49	8	8	13	12	8	43	18	1
 101	"nico.papet@orange.fr"	1	1	1	22	21	51	57	15	9	12	11	10	35	19	3
 102	"victoria.poupart@hotmail.com"	0	0	0	8	26	33	48	11	10	10	11	6	36	20	3
+103	"chaks_2222@hotmail.fr"	1	1	1	17	18	39	59	15	11	15	12	6	41	23	1
+104	"derechter.t@gmail.com"	1	1	1	33	26	51	52	6	11	13	9	13	32	25	12
+105	"javiera.leiva@mail.udp.cl"	1	1	1	10	24	49	60	11	10	13	14	12	26	28	10
+106	"lumatte@hotmail.com"	1	1	1	33	10	33	47	9	8	11	10	9	32	23	10
+107	"assadabdulkader@gmail.com"	1	1	1	37	25	38	50	6	7	14	15	8	26	22	9
+108	"marylou.petre@gmail.com"	1	1	1	40	28	55	41	4	4	12	13	8	34	41	12
+109	"tristandariouch@hotmail.com"	1	1	1	27	16	39	52	10	10	12	8	12	27	33	8

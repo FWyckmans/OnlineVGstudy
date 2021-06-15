@@ -129,6 +129,8 @@ Mail = c()
 Compt = 1
 # i = PS[1]
 i = "PARTICIPANT_VideoGameExperiment_2021-04-15_15h42.00.134.csv"
+i = "PARTICIPANT_VideoGameExperiment_2021-06-15_09h23.43.134.csv"
+i = "PARTICIPANT_VideoGameExperiment_2021-06-15_01h13.57.889.csv"
 
 for (i in PS) {
   d <- read.csv(paste0(Datapath, i))
@@ -171,13 +173,32 @@ for (i in PS) {
 
   dGnGt$TrialType[dGnGt$ScrColor == "Blue"] <- "NoGo"
   dGnGt$TrialType[dGnGt$ScrColor == "Green"] <- "Go"
-
-  if (length(dGnGt$CorrResp[dGnGt$CorrResp=="space"]) <= 120){
-    dGnGt$TaskType <- "Gaming_NoGo"
-  } else {
-    dGnGt$TaskType <- "Gaming_Go"
+  
+  # Check task version
+  TaskV <- 1
+  if (!"Neutral" %in% dGnGt$Primer[1:120]){
+    TaskV <- 2
+    FirstTask <- "Gaming_Go"
+  }
+  if (!"Gaming" %in% dGnGt$Primer[1:120]){
+    TaskV <- 2
+    FirstTask <- "Neutral_Go"
   }
   
+  # Get task type
+  if (TaskV[1] == 1){
+    if (length(dGnGt$CorrResp[dGnGt$CorrResp=="space"]) <= 120){
+      dGnGt$TaskType <- "Gaming_NoGo"
+    } else {
+      dGnGt$TaskType <- "Gaming_Go"
+    }
+  }
+  
+  if (TaskV == 2){
+    dGnGt$TaskType <- "Gaming_Go"
+    dGnGt$TaskType[dGnGt$Primer=="Neutral"] <- "Neutral_Go"
+  }
+
   # Final GnG frame
   dGnGt <- dGnGt%>%
     group_by(Email, TaskType, nTrial, TrialType, Primer)%>%
@@ -196,8 +217,27 @@ for (i in PS) {
   dGnGt$RT_Gaming_NoGo[dGnGt$RT_Gaming_NoGo == "NaN"] <- NA
   dGnGt$RT_Neutral_NoGo[dGnGt$RT_Neutral_NoGo == "NaN"] <- NA
 
-  dGnG <- rbind(dGnG, dGnGt)
+  dGnGt <- AddDummyCol(dGnGt, c("TaskV"), TaskV)
   
+  if (TaskV == 2){
+    dGnGt$Acc_Gaming_Go[2] <- dGnGt$Acc_Gaming_Go[1]
+    dGnGt$Acc_Gaming_NoGo[2] <- dGnGt$Acc_Gaming_NoGo[1]
+    
+    dGnGt$Acc_Neutral_Go[1] <- dGnGt$Acc_Neutral_Go[2]
+    dGnGt$Acc_Neutral_NoGo[1] <- dGnGt$Acc_Neutral_NoGo[2]
+    
+    dGnGt$RT_Gaming_Go[2] <- dGnGt$RT_Gaming_Go[1]
+    dGnGt$RT_Gaming_NoGo[2] <- dGnGt$RT_Gaming_NoGo[1]
+    
+    dGnGt$RT_Neutral_Go[1] <- dGnGt$RT_Neutral_Go[2]
+    dGnGt$RT_Neutral_NoGo[1] <- dGnGt$RT_Neutral_NoGo[2]
+
+    dGnGt <- dGnGt[1,]
+    dGnGt$TaskType <- FirstTask
+  }
+  
+  dGnG <- rbind(dGnG, dGnGt)
+
   ##### DOT probe
   dDOTt <- d%>%
     select(Email, expName,

@@ -6,6 +6,7 @@ Datapath = "Data/Pavlovia/RawDataGnG/"
 Output_path = "Data/Pavlovia/ProcessedData/"
 
 dQ <- read.delim("Data/LimeSurveyQuestionnaires/ProcessedData/dQuestionnaireTot.txt")
+dPav1 <- read.delim(paste0(Output_path, "/dPav.txt"))
 
 # Removal of (nearly) empty CSV
 PSToRemove <- c(dir(Datapath, pattern = ".log.gz"),
@@ -26,10 +27,10 @@ dGnG <- data.frame()
 
 Mail = c()
 Compt = 1
-i = "PARTICIPANT_VideoGameExperiment2_2021-04-30_11h52.47.053.csv"
+i = "PARTICIPANT_VideoGameExperiment2_2021-06-15_09h40.01.735.csv"
 
 for (i in PS) {
-  d <- read.csv(paste0(Datapath, i), sep = ";")
+  d <- read.csv(paste0(Datapath, i), sep = ",")
   Mail[Compt] <- d$Email[1]
   ExpName <- d$expName[1]
   
@@ -72,32 +73,67 @@ for (i in PS) {
   dGnGt$TrialType[dGnGt$ScrColor == "Blue"] <- "NoGo"
   dGnGt$TrialType[dGnGt$ScrColor == "Green"] <- "Go"
   
-  # if (length(dGnGt$CorrResp[dGnGt$CorrResp=="space"]) <= 120){
-  #   dGnGt$TaskType <- "Gaming_NoGo"
-  # } else {
-  #   dGnGt$TaskType <- "Gaming_Go"
-  # }
+  # Check task version
+  TaskV <- 1
+  if (!"Neutral" %in% dGnGt$Primer[1:120]){
+    TaskV <- 2
+    FirstTask <- "Gaming_Go"
+  }
+  if (!"Gaming" %in% dGnGt$Primer[1:120]){
+    TaskV <- 2
+    FirstTask <- "Neutral_Go"
+  }
   
-  dGnGt$TaskType[dGnGt$Primer == "Gaming"] <- "VG_Go"
-  dGnGt$TaskType[dGnGt$Primer == "Neutral"] <- "Ne_Go"
+  # Get task type
+  if (TaskV[1] == 1){
+    if (length(dGnGt$CorrResp[dGnGt$CorrResp=="space"]) <= 120){
+      dGnGt$TaskType <- "Gaming_NoGo"
+    } else {
+      dGnGt$TaskType <- "Gaming_Go"
+    }
+  }
+  
+  if (TaskV == 2){
+    dGnGt$TaskType <- "Gaming_Go"
+    dGnGt$TaskType[dGnGt$Primer=="Neutral"] <- "Neutral_Go"
+  }
   
   # Final GnG frame
   dGnGt <- dGnGt%>%
-    group_by(Email, TaskType, nTrial, TrialType)%>%
+    group_by(Email, TaskType, nTrial, TrialType, Primer)%>%
     summarise(Acc = mean(Accuracy, na.rm = T), RT = mean(RT, na.rm = T), .groups = 'drop')%>%
-    unite("Trial", TaskType, TrialType, sep = "_")%>%
+    unite("Trial", Primer:TrialType, sep = "_")%>%
     unite("Acc_RT", Acc:RT, sep = "_")%>%
     spread(key = Trial, value = Acc_RT)%>%
-    separate(VG_Go_Go, c("Acc_Gaming_Go", "RT_Gaming_Go"), sep = "_")%>%
-    separate(VG_Go_NoGo, c("Acc_Gaming_NoGo", "RT_Gaming_NoGo"), sep = "_")%>%
-    separate(Ne_Go_Go, c("Acc_Neutral_Go", "RT_Neutral_Go"), sep = "_")%>%
-    separate(Ne_Go_NoGo, c("Acc_Neutral_NoGo", "RT_Neutral_NoGo"), sep = "_")%>%
-    select(Email, nTrial,
+    separate(Gaming_Go, c("Acc_Gaming_Go", "RT_Gaming_Go"), sep = "_")%>%
+    separate(Gaming_NoGo, c("Acc_Gaming_NoGo", "RT_Gaming_NoGo"), sep = "_")%>%
+    separate(Neutral_Go, c("Acc_Neutral_Go", "RT_Neutral_Go"), sep = "_")%>%
+    separate(Neutral_NoGo, c("Acc_Neutral_NoGo", "RT_Neutral_NoGo"), sep = "_")%>%
+    select(Email, TaskType, nTrial,
            Acc_Gaming_Go, Acc_Gaming_NoGo, Acc_Neutral_Go, Acc_Neutral_NoGo,
            RT_Gaming_Go, RT_Gaming_NoGo, RT_Neutral_Go, RT_Neutral_NoGo)
   
   dGnGt$RT_Gaming_NoGo[dGnGt$RT_Gaming_NoGo == "NaN"] <- NA
   dGnGt$RT_Neutral_NoGo[dGnGt$RT_Neutral_NoGo == "NaN"] <- NA
+  
+  dGnGt <- AddDummyCol(dGnGt, c("TaskV"), TaskV)
+  
+  if (TaskV == 2){
+    dGnGt$Acc_Gaming_Go[2] <- dGnGt$Acc_Gaming_Go[1]
+    dGnGt$Acc_Gaming_NoGo[2] <- dGnGt$Acc_Gaming_NoGo[1]
+    
+    dGnGt$Acc_Neutral_Go[1] <- dGnGt$Acc_Neutral_Go[2]
+    dGnGt$Acc_Neutral_NoGo[1] <- dGnGt$Acc_Neutral_NoGo[2]
+    
+    dGnGt$RT_Gaming_Go[2] <- dGnGt$RT_Gaming_Go[1]
+    dGnGt$RT_Gaming_NoGo[2] <- dGnGt$RT_Gaming_NoGo[1]
+    
+    dGnGt$RT_Neutral_Go[1] <- dGnGt$RT_Neutral_Go[2]
+    dGnGt$RT_Neutral_NoGo[1] <- dGnGt$RT_Neutral_NoGo[2]
+    
+    dGnGt <- dGnGt[1,]
+    dGnGt$TaskType <- FirstTask
+  }
   
   dGnG <- rbind(dGnG, dGnGt)
   
@@ -108,12 +144,23 @@ for (i in PS) {
 }
 
 # dGnG <- filter(dGnG, nTrial == 240)
+dGnG <- dGnG[ , -which(names(dGnG) == "nTrial")]
 
-dMail1 <- data.frame(Mail)
+for (i in 1:length(dPav1$Email)){
+  if (dPav1$Email[i] %in% dGnG$Email){
+    dGnGtt <- filter(dGnG, Email == dPav1$Email[i])
+    dPav1[i,2:11] <- dGnGtt[, 2:11]
+    
+    dGnG <- filter(dGnG, Email != dPav1$Email[i])
+  }
+}
+
+
+
 
 # dPav <- cbind(dGnG[,-3], dDOT[dDOT$Email%in%dGnG$Email,3:6], dVal[dVal$Email %in% dGnG$Email, 3:4])
 
 
 ##### Write table
-# write.table(dPav, paste0(Output_path, "dPav.txt"), col.names = T, row.names = F, sep = "\t", dec = ".")
+write.table(dPav1, paste0(Output_path, "dPav.txt"), col.names = T, row.names = F, sep = "\t", dec = ".")
 # write.table(dMail1, "AdditionalInfo/MailList/dMailPav.txt", col.names = T, row.names = F, sep = "\t", dec = ".")
