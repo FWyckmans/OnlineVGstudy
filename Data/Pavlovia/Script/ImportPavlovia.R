@@ -114,7 +114,9 @@ PSToRemove <- c(dir(Datapath, pattern = ".log.gz"),
                 "PARTICIPANT_VideoGameExperiment_2021-03-26_15h12.03.438.csv", # Saboye
                 "PARTICIPANT_VideoGameExperiment_2021-03-26_14h41.07.597.csv",
                 "PARTICIPANT_VideoGameExperiment_2021-03-30_10h32.19.713.csv", # Courbet
-                "PARTICIPANT_VideoGameExperiment_2021-03-31_12h20.36.207.csv" # Begnis
+                "PARTICIPANT_VideoGameExperiment_2021-03-31_12h20.36.207.csv", # Begnis
+                "PARTICIPANT_VideoGameExperiment_2021-06-21_22h33.19.946.csv", # Melissa Martin
+                "PARTICIPANT_VideoGameExperimentOrderB_2021-06-15_16h49.21.827.csv" # Starkiller
                 ) 
 
 
@@ -318,6 +320,8 @@ dMail1 <- data.frame(Mail)
 
 dPav <- cbind(dGnG[,-3], dDOT[dDOT$Email%in%dGnG$Email,3:6], dVal[dVal$Email %in% dGnG$Email, 3:4])
 
+# Remove duplicates
+dPav = dPav[!duplicated(dPav$Email),]
 
 ##### Write table
 write.table(dPav, paste0(Output_path, "dPav.txt"), col.names = T, row.names = F, sep = "\t", dec = ".")
