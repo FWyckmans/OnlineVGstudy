@@ -155,9 +155,6 @@ for (i in 1:length(dPav1$Email)){
   }
 }
 
-
-
-
 # dPav <- cbind(dGnG[,-3], dDOT[dDOT$Email%in%dGnG$Email,3:6], dVal[dVal$Email %in% dGnG$Email, 3:4])
 
 
