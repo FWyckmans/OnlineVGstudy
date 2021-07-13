@@ -188,3 +188,5 @@
 442	"melissamartins@outlook.fr"	"PG"	"A"	30	"Female"	12	"Employee"	"Yes"	"No"	7	"Online"	"FPS"	"A5"	21	14	13	17	12	12	16	16	12	12
 444	"meddy.behogne@gmail.com"	"HC"	"A"	22	"Male"	6	"Employee"	"Yes"	"No"	0	"Online"	"TPS"	"A3"	6	4	4	4	3	16	4	4	3	3
 445	"kenzo1130@hotmail.be"	"HC"	"B"	23	"Male"	15	"Student"	"Yes"	"Yes"	0	"Both"	"FPS"	"A4"	13	14	9	11	6	8	16	12	11	7
+448	"emel.dalgic@hotmail.com"	"PG"	"B"	23	"Female"	15	"Student"	"Yes"	"Yes"	4	"Both"	"RPG"	"A4"	17	10	10	19	8	10	16	6	10	7
+453	"vdborght.arnaud@gmail.com"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	3	"Online"	"MOBA"	"A5"	10	5	8	11	6	15	5	7	5	6

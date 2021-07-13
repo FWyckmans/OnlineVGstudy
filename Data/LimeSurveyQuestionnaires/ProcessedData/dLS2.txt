@@ -126,3 +126,5 @@
 134	"melissamartins@outlook.fr"	0	1	0	58	27	50	47	9	7	12	10	9	41	29	0
 135	"meddy.behogne@gmail.com"	1	1	1	0	34	49	51	10	11	10	10	10	37	26	0
 136	"kenzo1130@hotmail.be"	1	1	1	17	28	37	50	11	10	11	8	10	37	19	0
+137	"emel.dalgic@hotmail.com"	1	1	1	27	31	38	38	6	5	11	8	8	36	29	5
+138	"vdborght.arnaud@gmail.com"	0	0	1	13	14	38	54	14	9	9	10	12	30	22	7
