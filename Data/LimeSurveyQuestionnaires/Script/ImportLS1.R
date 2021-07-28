@@ -114,13 +114,15 @@ dLS1$OL <- factor(dLS1$OL, ordered = F)
 for (i in grep("GAS", colnames(dLS1))){
   dLS1[,i] <- str_remove(dLS1[,i], "A")
   dLS1[,i] <- as.numeric(dLS1[,i])
-  # dLS1[,i] <- dLS1[,i] -1
-  dLS1[,i] <- ifelse(dLS1[,i] >= 3, 1, 0)
+  # dLS1[,i] <- ifelse(dLS1[,i] >= 3, 1, 0)
 }
 
-dLS1 <- mutate(dLS1, GAS = GAS1 + GAS2 + GAS3 + GAS4 + GAS5 + GAS6 + GAS7)
-dLS1 <- AddDummyCol(dLS1, "Grp", Val = "HC")
-dLS1$Grp[dLS1$GAS >= 4] <- "PG"
+dLS1 <- mutate(dLS1, GASsum = GAS1 + GAS2 + GAS3 + GAS4 + GAS5 + GAS6 + GAS7,
+               GAS = (GAS1>=3) + (GAS2>=3) + (GAS3>=3) + (GAS4>=3) + (GAS5>=3) + (GAS6>=3) + (GAS7>=3))
+
+dLS1 <- AddDummyCol(dLS1, c("GrpPoly", "GrpMono"), Val = "HC")
+dLS1$GrpPoly[dLS1$GAS >= 4] <- "PG"
+dLS1$GrpMono[dLS1$GAS == 7] <- "PG"
 
 # MPOG
 dMPOG <- select(dLS1, NS, OLQ1.OLQ1.:OLQ4)
@@ -146,7 +148,7 @@ dMPOG <- dMPOG%>%
          Escapism = OLQ3.OLQ37. + OLQ3.OLQ38. + OLQ1.OLQ39.)
 
 ##### Final dataframe
-dF <- select(dLS1, NS, Mail1, Grp, Order, Age, Gender, StudyLvl, Work, Contactable, DrugUse, GAS, OL, MainGame, LastSession)
+dF <- select(dLS1, NS, Mail1, GrpMono, GrpPoly, Order, Age, Gender, StudyLvl, Work, Contactable, DrugUse, GAS, GASsum, OL, MainGame, LastSession)
 dF <- cbind(dF, dMPOG[41:length(dMPOG)])
 dMailLS1 <- select(dLS1, Mail1)
 dAge <- dLS1[, c(1, 2, 3)]

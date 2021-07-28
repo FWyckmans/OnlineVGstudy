@@ -1,286 +1,286 @@
-"NS"	"Mail1"	"Grp"	"Order"	"Age"	"Gender"	"StudyLvl"	"Work"	"Contactable"	"DrugUse"	"GAS"	"OL"	"MainGame"	"LastSession"	"Advancement"	"Mechanics"	"Competition"	"Socializing"	"Relationship"	"Teamwork"	"Discovery"	"Roleplaying"	"Customization"	"Escapism"
-12	"capi.mayne@gmail.com"	"PG"	"B"	23	"Male"	15	"Student"	"Yes"	"Yes"	6	"Online"	"MMORPG"	"A6"	21	16	8	19	10	15	12	8	10	9
-13	"laury.goossens@hotmail.com"	"HC"	"A"	18	"Male"	9	"Student"	"Yes"	"Yes"	1	"Both"	"Gest"	"A6"	6	4	4	4	3	13	4	4	3	3
-14	"delphinecuvelier@hotmail.be"	"HC"	"B"	25	"Female"	17	"Student"	"Yes"	"Yes"	2	"Online"	"MMORPG"	"A5"	10	10	8	11	4	16	6	5	4	7
-20	"thomas.bode.blanco@hotmail.com"	"HC"	"B"	25	"Male"	15	"Student"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-21	"antonin.3@hotmail.com"	"HC"	"A"	24	"Male"	17	"Student"	"Yes"	"Yes"	2	"Offline"	"RPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-22	"Jo.vancop@hotmail.be"	"PG"	"A"	28	"Male"	17	"Unemployed"	"Yes"	"Yes"	4	"Both"	"MMORPG"	"A6"	16	14	5	8	3	11	10	7	10	8
-28	"ggvanels@hotmail.be"	"PG"	"A"	22	"Male"	12	"Student"	"Yes"	"Yes"	6	"Online"	"MMORPG"	"A6"	16	14	9	12	13	10	18	5	3	10
-30	"e.mostin@outlook.be "	"HC"	"B"	21	"Female"	12	"Student"	"No"	"No"	1	"Offline"	"MMORPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-32	"lina.vanbellinghen@gmail.com"	"HC"	"A"	20	"Female"	12	"Student"	"Yes"	"Yes"	0	"Offline"	"PartyGame"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-33	"andreea.rabei@ulb.be"	"HC"	"A"	20	"Female"	12	"Student"	"Yes"	"No"	1	"Offline"	"PartyGame"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-34	"Colin.vancoppenolle@hotmail.be"	"HC"	"A"	30	"Male"	12	"Unemployed"	"Yes"	"No"	3	"Both"	"RPG"	"A5"	9	6	8	15	9	9	18	12	5	7
-35	"alexandre.beeckmans@gmail.com"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	2	"Online"	"MMORPG"	"A6"	17	7	13	19	8	10	20	17	7	10
-36	"m.vancoppenolle@outlook.com"	"HC"	"A"	26	"Male"	15	"Unemployed"	"Yes"	"Yes"	0	"Offline"	"PartyGame"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-40	"guilhem.tailliez@gmail.com"	"PG"	"B"	25	"Male"	15	"Independent"	"No"	"No"	6	"Online"	"MMORPG"	"A6"	23	17	13	12	9	12	4	6	9	7
-43	"antoineleroy34920@gmail.com"	"PG"	"A"	24	"Male"	15	"Employee"	"Yes"	"No"	7	"Online"	"FPS"	"A6"	21	13	10	17	10	14	16	8	6	8
-44	"baptima1@gmail.com"	"PG"	"A"	22	"Male"	12	"Student"	"Yes"	"Yes"	6	"Online"	"MMORPG"	"A6"	16	14	8	14	7	9	7	4	5	5
-45	"mohamedbenomar145@gmail.com"	"HC"	"A"	22	"Male"	17	"Student"	"Yes"	"Yes"	1	"Online"	"FPS"	"A6"	9	8	12	6	3	16	13	5	10	6
-47	"gaspard.groux@orange.fr"	"PG"	"A"	22	"Male"	15	"Student"	"Yes"	"Yes"	4	"Online"	"MOBA"	"A6"	12	13	16	10	5	12	14	8	11	11
-48	"paul.chans@live.fr"	"HC"	"A"	22	"Male"	9	"Student"	"Yes"	"No"	2	"Online"	"MOBA"	"A6"	17	19	17	12	9	15	6	10	7	6
-49	"igep.pegi@gmail.com"	"PG"	"A"	22	"Male"	17	"Student"	"No"	"No"	4	"Online"	"MOBA"	"A6"	23	14	16	8	6	12	9	9	14	13
-53	"roubadrien@gmail.com"	"PG"	"B"	21	"Male"	17	"Student"	"Yes"	"Yes"	7	"Online"	"MOBA"	"A6"	23	18	11	16	9	17	10	5	5	8
-56	"alexdrg18@gmail.com"	"HC"	"A"	20	"Male"	15	"Student"	"Yes"	"Yes"	3	"Online"	"Sport"	"A5"	15	9	10	10	7	17	11	7	10	9
-57	"titoubois14@gmail.com"	"HC"	"A"	20	"Female"	15	"Student"	"No"	"No"	1	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-61	"duchene.thibaut@hotmail.com"	"HC"	"A"	24	"Male"	15	"Student"	"Yes"	"Yes"	1	"Both"	"FPS"	"A5"	14	11	6	12	4	11	17	11	11	8
-62	"moureaux.w@hotmail.com"	"HC"	"B"	25	"Male"	12	"Unemployed"	"Yes"	"Yes"	3	"Both"	"FPS"	"A5"	15	16	4	8	3	5	18	10	11	9
-65	"jaeck.cinthia@gmail.com"	"PG"	"B"	31	"Female"	17	"Executive"	"Yes"	"No"	6	"Online"	"MMORPG"	"A6"	17	13	4	18	11	10	17	12	15	15
-66	"johnbelis755@gmail.com"	"HC"	"A"	22	"Male"	12	"Student"	"Yes"	"Yes"	1	"Online"	"Sport"	"A4"	20	12	14	12	6	13	13	10	10	6
-67	"joshua.boulin@gmail.com"	"PG"	"A"	22	"Male"	15	"Workman"	"Yes"	"No"	4	"Both"	"MMORPG"	"A6"	16	17	7	16	12	9	13	9	13	9
-70	"celia.kieckens@hotmail.com"	"PG"	"B"	19	"Female"	12	"Student"	"Yes"	"Yes"	4	"Online"	"STR"	"A6"	21	10	13	7	5	12	8	7	11	11
-72	"meunier.amelin@gmail.com"	"HC"	"A"	30	"Male"	15	"Workman"	"Yes"	"Yes"	3	"Online"	"FPS"	"A6"	18	11	11	18	9	15	12	12	10	9
-73	"theo.meunier71@outlook.fr"	"HC"	"A"	22	"Male"	17	"Other"	"Yes"	"No"	2	"Online"	"STR"	"A6"	15	13	5	15	10	11	14	8	3	7
-74	"theo.meunier2@outlook.fr"	"HC"	"A"	22	"Male"	17	"Other"	"Yes"	"No"	1	"Online"	"STR"	"A6"	12	12	5	13	10	13	13	8	3	7
-75	"Theo.meunier71@outlook.fr"	"HC"	"A"	22	"Male"	17	"Other"	"Yes"	"No"	1	"Online"	"STR"	"A6"	12	13	5	15	10	13	15	8	3	7
-79	"Manon.goursaud33@gmail.com"	"HC"	"B"	25	"Female"	9	"Employee"	"Yes"	"No"	0	"Offline"	"Sport"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-81	"Saradjfour@gmail.com"	"PG"	"A"	24	"Female"	0	"Unemployed"	"Yes"	"Yes"	7	"Online"	"FPS"	"A6"	17	12	17	14	10	12	14	11	10	11
-91	"Marie_vanaut@hotmail.com"	"PG"	"A"	26	"Female"	12	"Employee"	"Yes"	"No"	4	"Online"	"FPS"	"A6"	24	12	12	15	8	11	16	11	7	10
-93	"Ameyer167@gmail.com"	"PG"	"A"	24	"Female"	9	"Employee"	"Yes"	"No"	6	"Both"	"RPG"	"A5"	23	13	17	15	13	14	13	9	6	11
-95	"maeva.labourel@hotmail.fr"	"PG"	"A"	34	"Female"	6	"Unemployed"	"Yes"	"Yes"	7	"Both"	"MMORPG"	"A6"	20	12	10	14	5	11	19	16	11	15
-96	"marion.berchtold@hotmail.fr"	"PG"	"A"	22	"Female"	15	"Employee"	"Yes"	"Yes"	6	"Online"	"FPS"	"A5"	19	15	11	20	10	10	11	13	8	14
-97	"jean.detheux@hotmail.com"	"HC"	"B"	23	"Male"	12	"Workman"	"Yes"	"Yes"	0	"Offline"	"Sport"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-99	"paulboschetto@hotmail.fr"	"HC"	"A"	28	"Male"	12	"Employee"	"Yes"	"Yes"	2	"Online"	"MMORPG"	"A6"	16	10	7	17	7	13	18	10	9	7
-101	"zaghouani.t@gmail.com"	"HC"	"A"	28	"Male"	15	"Student"	"Yes"	"Yes"	2	"Online"	"FPS"	"A5"	13	4	4	4	3	15	4	4	3	3
-102	"nicolas.claise@gmail.com"	"HC"	"B"	29	"Male"	17	"Independent"	"No"	"Yes"	1	"Online"	"Sport"	"A3"	6	6	11	8	4	16	4	4	3	6
-112	"Nelsom.naima@gmail.com"	"PG"	"A"	20	"Female"	15	"Student"	"Yes"	"Yes"	4	"Offline"	"RPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-114	"laurine.vulcana@gmail.com"	"PG"	"A"	16	"Female"	15	"Student"	"Yes"	"No"	5	"Online"	"FPS"	"A5"	18	12	7	20	8	14	14	16	5	12
-123	"emilie.serra84@yahoo.com"	"HC"	"A"	18	"Female"	9	"Student"	"Yes"	"No"	2	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-124	"lecunff.lohanne@gmail.com"	"PG"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	7	"Both"	"Gest"	"A5"	21	9	9	12	10	11	15	9	10	15
-129	"helene.batisse@hotmail.fr"	"HC"	"A"	26	"Female"	17	"Student"	"Yes"	"No"	3	"Both"	"RPG"	"A5"	15	12	5	20	13	11	17	8	7	11
-136	"meline.solene59@gmail.com"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	2	"Online"	"TPS"	"A5"	8	7	8	12	5	16	14	7	5	3
-151	"Noemiejp@aol.com"	"HC"	"B"	39	"Female"	17	"Unemployed"	"Yes"	"No"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-158	"Maelle.becquet14@hotmail.fr "	"PG"	"B"	27	"Female"	15	"Student"	"Yes"	"Yes"	5	"Both"	"RPG"	"A5"	20	8	12	15	8	11	15	13	8	12
-159	"jessica.noury@outlook.com"	"PG"	"A"	20	"Other"	9	"Employee"	"Yes"	"Yes"	4	"Both"	"MOBA"	"A6"	19	12	9	15	12	8	15	15	10	12
-161	"ciesielskidel@gmail.com"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"Yes"	1	"Offline"	"Gest"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-163	"e.cocault@hotmail.fr"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	0	"Offline"	"Sport"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-166	"Soobithan@gmail.com"	"PG"	"B"	21	"Male"	15	"Student"	"Yes"	"Yes"	4	"Online"	"FPS"	"A6"	18	15	12	16	11	20	16	7	12	13
-170	"kenny.noury56@gmail.com"	"PG"	"B"	15	"Male"	9	"Student"	"Yes"	"No"	5	"Online"	"FPS"	"A6"	20	11	16	13	10	15	8	6	6	12
-172	"jules.saboye5@gmail.com"	"PG"	"A"	22	"Male"	17	"Student"	"Yes"	"Yes"	4	"Offline"	"Sport"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-173	"hoyauclemence15@gmail.com"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	1	"Both"	"STR"	"A2"	24	17	20	14	5	9	20	14	12	11
-174	"lau.gvn@gmail.com"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	2	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-175	"quentin.chesnot@hotmail.fr"	"PG"	"A"	20	"Male"	17	"Employee"	"No"	"No"	5	"Both"	"MMORPG"	"A4"	9	9	6	5	6	15	17	11	9	9
-177	"leorier15@gmail.com"	"HC"	"A"	18	"Female"	9	"Student"	"Yes"	"No"	3	"Online"	"PartyGame"	"A4"	21	12	11	14	6	12	15	11	10	9
-181	"giappesim@gmail.com"	"HC"	"B"	21	"Female"	17	"Student"	"Yes"	"No"	1	"Offline"	"Gest"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-182	"annelyse.karanakov@gmail.com"	"HC"	"A"	22	"Female"	15	"Student"	"Yes"	"Yes"	1	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-183	"quentin-walter@orange.fr"	"PG"	"A"	20	"Male"	15	"Student"	"Yes"	"Yes"	4	"Both"	"RPG"	"A6"	18	19	11	15	10	5	20	8	12	14
-184	"emilia.cruz0204@gmail.com "	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	0	"Offline"	"PartyGame"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-186	"stephanieshiraku@gmail.com"	"PG"	"A"	26	"Female"	17	"Unemployed"	"Yes"	"No"	7	"Online"	"FPS"	"A6"	17	14	10	13	9	9	20	12	15	15
-188	"chloe.pouytes@orange.fr"	"HC"	"A"	22	"Female"	17	"Student"	"Yes"	"No"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-189	"crystal.tomaszewski@wanadoo.fr"	"HC"	"A"	24	"Female"	17	"Student"	"Yes"	"No"	0	"Online"	"MMORPG"	"A5"	12	4	4	15	5	13	18	9	7	4
-190	"soliana.perna@student.uclouvain.be"	"HC"	"B"	21	"Female"	15	"Student"	"Yes"	"No"	3	"Online"	"Gest"	"A4"	18	11	5	7	3	10	6	9	8	10
-193	"morganereynero@icloud.com"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-196	"manonchesnot22@gmail.com"	"HC"	"A"	20	"Female"	0	"Student"	"Yes"	"No"	1	"Offline"	"PartyGame"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-198	"fexon63@hotmail.fr"	"PG"	"B"	23	"Male"	15	"Unemployed"	"Yes"	"No"	4	"Both"	"RPG"	"A5"	14	15	5	14	10	10	20	18	15	7
-199	"solene.hillion1@etu.univ-nantes.fr"	"HC"	"A"	22	"Female"	6	"Student"	"Yes"	"No"	0	"Offline"	"STR"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-200	"fantinebridou9@gmail.com"	"HC"	"B"	21	"Female"	17	"Student"	"Yes"	"No"	2	"Online"	"Gest"	"A5"	13	10	4	9	4	8	11	12	11	7
-202	"lucie-soulard@orange.fr"	"PG"	"B"	21	"Female"	15	"Student"	"Yes"	"No"	4	"Offline"	"Gest"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-207	"ouachani.lokman17@gmail.com"	"HC"	"A"	28	"Male"	15	"Student"	"Yes"	"No"	0	"Offline"	"Sport"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-208	"nathanmejbouri@gmail.com"	"PG"	"A"	20	"Male"	15	"Student"	"Yes"	"No"	7	"Both"	"FPS"	"A6"	17	11	8	16	7	8	8	8	11	14
-210	"Zombojessica@gmail.com"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-213	"Margauxcamby@live.be"	"HC"	"A"	24	"Female"	15	"Student"	"Yes"	"Yes"	2	"Offline"	"MMORPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-214	"mathieu.cvll@gmail.com"	"HC"	"B"	21	"Male"	15	"Employee"	"Yes"	"Yes"	1	"Both"	"RPG"	"A6"	14	15	5	17	12	8	18	9	11	7
-215	"natachadker@gmail.com"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	1	"Online"	"TPS"	"A6"	17	14	12	18	7	9	6	9	8	9
-219	"fred2a96@gmail.com"	"PG"	"A"	24	"Male"	6	"Employee"	"Yes"	"Yes"	4	"Both"	"RPG"	"A6"	14	12	9	9	8	11	20	9	4	13
-220	"cassandra.perront.etu@univ-lille.fr"	"HC"	"B"	19	"Female"	15	"Student"	"Yes"	"Yes"	2	"Offline"	"FPS"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-223	"emeline.hamon97@gmail.com"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-228	"jennifer5.geenen58640@gmail.com"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"Yes"	2	"Online"	"FPS"	"A4"	17	9	12	19	7	10	16	19	7	12
-229	"emmadcl@outlook.fr"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"Yes"	2	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-230	"christopherferreira99@yahoo.fr"	"PG"	"A"	30	"Male"	15	"Independent"	"Yes"	"Yes"	4	"Online"	"MMORPG"	"A3"	15	16	7	10	5	13	10	10	7	12
-231	"emilia.cruz0204@gmail.com"	"HC"	"A"	20	"Female"	12	"Student"	"Yes"	"No"	0	"Offline"	"PartyGame"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-232	"denilsonhfp@gmail.com"	"PG"	"B"	21	"Male"	15	"Student"	"Yes"	"Yes"	4	"Online"	"MMORPG"	"A6"	9	12	9	13	9	10	5	6	4	8
-233	"florentdufresne33@gmail.com"	"PG"	"A"	22	"Male"	15	"Unemployed"	"Yes"	"Yes"	6	"Online"	"MMORPG"	"A6"	9	6	5	11	6	16	11	4	5	5
-237	"andrea.garrigues2@gmail.com"	"HC"	"B"	19	"Female"	15	"Student"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-238	"Jimmy2244@hotmail.fr"	"PG"	"A"	20	"Male"	12	"Student"	"Yes"	"Yes"	4	"Online"	"STR"	"A6"	20	15	15	15	7	15	17	13	14	11
-241	"quentinropero@yahoo.fr"	"HC"	"B"	27	"Male"	17	"Employee"	"Yes"	"Yes"	3	"Both"	"STR"	"A6"	14	11	7	12	9	15	13	6	5	5
-242	"petilly@free.fr"	"PG"	"B"	23	"Male"	17	"Employee"	"No"	"Yes"	6	"Both"	"FPS"	"A5"	18	11	12	15	11	14	10	13	12	8
-244	"julie.galinier1@gmail.com"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	3	"Both"	"Gest"	"A4"	22	13	16	17	8	11	18	16	11	12
-246	"noemieleboeuf85290@gmail.com"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"No"	2	"Both"	"Gest"	"A6"	6	4	4	4	3	14	4	4	3	3
-249	"sarahlempert7@gmail.com"	"HC"	"B"	19	"Female"	15	"Student"	"Yes"	"Yes"	1	"Both"	"PartyGame"	"A4"	8	6	10	11	3	18	4	5	9	5
-250	"bencuomo3@gmail.com"	"HC"	"B"	21	"Male"	15	"Employee"	"Yes"	"Yes"	1	"Both"	"FPS"	"A6"	13	11	8	6	3	15	13	8	8	4
-252	"juliettepochet62@gmail.com"	"HC"	"B"	19	"Female"	15	"Student"	"Yes"	"Yes"	1	"Offline"	"RPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-253	"adelaide@riseup.net"	"HC"	"B"	31	"Female"	15	"Other"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-259	"sibylleguemon@icloud.com"	"HC"	"A"	22	"Female"	17	"Student"	"Yes"	"No"	1	"Offline"	"MMORPG"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-261	"florine.ldn@hotmail.fr"	"HC"	"B"	21	"Female"	17	"Student"	"Yes"	"No"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-264	"alexleboeuf@sfr.fr"	"PG"	"A"	22	"Male"	15	"Student"	"Yes"	"No"	5	"Offline"	"PartyGame"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-265	"alicedel23@gmail.com"	"HC"	"A"	18	"Female"	15	"Student"	"Yes"	"No"	0	"Offline"	"FPS"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-267	"chevalier.chloe@outlook.fr"	"HC"	"B"	21	"Female"	15	"Employee"	"Yes"	"No"	2	"Offline"	"Gest"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-268	"poittevin.damien@outlook.fr"	"HC"	"B"	21	"Male"	15	"Student"	"Yes"	"Yes"	3	"Online"	"RPG"	"A6"	17	15	18	7	11	7	19	10	14	12
-269	"goran.loiseaux@gmail.com"	"HC"	"B"	21	"Male"	15	"Student"	"Yes"	"No"	2	"Both"	"RPG"	"A6"	12	15	8	10	4	10	12	10	9	12
-270	"manon.mercier1017@gmail.com"	"HC"	"A"	18	"Female"	15	"Student"	"Yes"	"No"	2	"Online"	"Sport"	"A4"	11	9	12	5	3	14	10	7	4	4
-271	"manon.debia@gmail.com"	"HC"	"A"	22	"Female"	17	"Student"	"Yes"	"No"	0	"Both"	"PartyGame"	"A3"	12	7	8	10	4	18	15	8	5	5
-273	"jeanne310599@gmail.com"	"HC"	"B"	21	"Female"	9	"Employee"	"Yes"	"No"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-278	"anna.correia@hotmail.fr"	"PG"	"B"	21	"Female"	15	"Student"	"Yes"	"No"	5	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-280	"emmadesmielles@hotmail.fr"	"HC"	"B"	21	"Female"	17	"Student"	"Yes"	"No"	0	"Offline"	"Sport"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-281	"swanbukulin@yahoo.fr"	"HC"	"A"	20	"Male"	15	"Student"	"Yes"	"No"	2	"Both"	"Sport"	"A6"	18	16	12	20	10	12	17	12	12	8
-283	"Basiledd@gmail.com "	"PG"	"A"	24	"Male"	15	"Unemployed"	"No"	"Yes"	4	"Online"	"FPS"	"A4"	17	16	20	14	7	10	4	8	10	8
-286	"lijudu92@gmail.com"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	3	"Both"	"Gest"	"A5"	22	13	15	17	15	16	16	17	11	10
-288	"coralie.massimo@yahoo.fr"	"HC"	"A"	26	"Female"	17	"Independent"	"Yes"	"No"	2	"Online"	"STR"	"A6"	9	5	4	4	3	8	14	8	5	5
-289	"antonin.duvaux@laposte.net"	"PG"	"B"	19	"Male"	15	"Student"	"Yes"	"Yes"	6	"Both"	"MOBA"	"A4"	22	12	10	17	8	18	12	9	11	9
-290	"ibrasow795@gmail.com"	"HC"	"A"	20	"Male"	17	"Student"	"Yes"	"No"	2	"Online"	"MOBA"	"A6"	14	11	14	14	8	14	6	8	3	9
-292	"courbetcaroline1s2@gmail.com"	"HC"	"A"	22	"Female"	15	"Student"	"Yes"	"No"	1	"Offline"	"MMORPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-293	"the_spyker117@live.be"	"HC"	"A"	34	"Male"	0	"Employee"	"Yes"	"Yes"	2	"Online"	"FPS"	"A3"	16	10	8	15	6	10	12	9	10	8
-295	"Willy.kinsch@hotmail.com"	"HC"	"A"	24	"Male"	12	"Student"	"Yes"	"Yes"	1	"Offline"	"PartyGame"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-297	"aurel.mandet@outlook.fr"	"PG"	"A"	20	"Male"	15	"Student"	"Yes"	"Yes"	6	"Offline"	"RPG"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-298	"alanishouyoux@me.com"	"HC"	"A"	24	"Female"	9	"Independent"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-300	"begnis.theo@yahoo.fr"	"HC"	"A"	24	"Male"	15	"Employee"	"Yes"	"No"	3	"Online"	"MOBA"	"A6"	14	9	14	17	12	14	14	9	11	8
-301	"houyouxantonin@gmail.com"	"HC"	"A"	22	"Male"	12	"Student"	"Yes"	"Yes"	1	"Both"	"MMORPG"	"A4"	12	14	10	13	4	10	14	8	11	4
-302	"meimei.mio@hotmail.com"	"PG"	"A"	22	"Female"	17	"Student"	"Yes"	"No"	5	"Online"	"MMORPG"	"A6"	24	15	8	19	10	13	16	10	10	13
-303	"cmll.fouret@gmail.com"	"HC"	"B"	19	"Female"	15	"Student"	"Yes"	"No"	3	"Offline"	"RPG"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-304	"lucie.delforge@hotmail.com"	"HC"	"B"	25	"Female"	17	"Unemployed"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-312	"alexandre.timotic@yahoo.fr"	"PG"	"A"	26	"Male"	15	"Student"	"Yes"	"Yes"	4	"Online"	"FPS"	"A5"	16	12	13	16	6	14	11	6	5	6
-313	"aurelie.soulima@gmail.com"	"HC"	"A"	28	"Female"	17	"Employee"	"Yes"	"No"	0	"Offline"	"Gest"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-315	"nicolasnenadic@live.be"	"HC"	"B"	23	"Male"	12	"Student"	"Yes"	"Yes"	3	"Online"	"FPS"	"A6"	21	17	14	17	11	14	6	6	5	10
-316	"neoxys@live.be"	"HC"	"A"	40	"Female"	15	"Employee"	"No"	"Yes"	0	"Offline"	"Gest"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-318	"leonorefalkowski@gmail.com"	"HC"	"A"	22	"Female"	15	"Student"	"Yes"	"Yes"	0	"Offline"	"PartyGame"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-319	"muldercoraline@gmail.com"	"PG"	"B"	25	"Female"	12	"Employee"	"Yes"	"Yes"	7	"Online"	"MMORPG"	"A6"	10	18	9	20	13	14	20	20	15	11
-322	"rabot.rebecca@gmail.com"	"HC"	"A"	30	"Female"	17	"Employee"	"Yes"	"Yes"	1	"Offline"	"MMORPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-323	"seghers_simon@msn.com"	"HC"	"B"	35	"Male"	15	"Employee"	"Yes"	"No"	2	"Online"	"MMORPG"	"A6"	10	14	8	16	9	14	4	6	4	9
-324	"deymaurin@hotmail.fr"	"HC"	"A"	30	"Male"	17	"Executive"	"Yes"	"No"	3	"Both"	"MMORPG"	"A6"	16	14	6	16	6	16	13	9	12	5
-327	"neru_pala@hotmail.fr"	"HC"	"B"	35	"Male"	12	"Executive"	"Yes"	"No"	3	"Online"	"MMORPG"	"A5"	15	18	10	17	9	13	12	11	10	6
-328	"m.richer6@hotmail.fr"	"PG"	"B"	27	"Male"	17	"Executive"	"Yes"	"No"	5	"Online"	"MMORPG"	"A6"	21	15	16	17	9	13	13	8	6	8
-329	"nico.papet@orange.fr"	"HC"	"B"	25	"Male"	17	"Executive"	"No"	"Yes"	2	"Online"	"MMORPG"	"A6"	14	15	6	14	9	14	5	7	9	7
-335	"victoria.poupart@hotmail.com"	"HC"	"A"	24	"Female"	15	"Student"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-336	"chaks_2222@hotmail.fr"	"PG"	"B"	33	"Male"	12	"Executive"	"Yes"	"Yes"	6	"Online"	"MMORPG"	"A3"	18	18	7	19	8	17	7	8	5	7
-339	"derechter.t@gmail.com"	"PG"	"A"	32	"Male"	15	"Employee"	"No"	"Yes"	5	"Offline"	"MMORPG"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-340	"javiera.leiva@mail.udp.cl"	"HC"	"A"	26	"Female"	15	"Student"	"Yes"	"Yes"	1	"Offline"	"FPS"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-341	"lumatte@hotmail.com"	"PG"	"B"	23	"Male"	12	"Student"	"Yes"	"Yes"	6	"Online"	"MOBA"	"A6"	18	13	12	15	9	11	9	15	8	7
-344	"Assadabdulkader@gmail.com "	"HC"	"B"	35	"Male"	15	"Student"	"Yes"	"No"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-345	"assadabdulkader@gmail.com"	"HC"	"B"	35	"Male"	15	"Student"	"Yes"	"No"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-346	"marylou.petre@gmail.com"	"PG"	"B"	21	"Female"	12	"Student"	"Yes"	"Yes"	4	"Online"	"MMORPG"	"A6"	20	7	13	10	7	11	10	12	11	13
-347	"tristandariouch@hotmail.com"	"HC"	"B"	25	"Male"	17	"Unemployed"	"Yes"	"Yes"	1	"Both"	"RPG"	"A6"	10	7	12	6	3	9	8	7	4	7
-348	"jim_0071@msn.com"	"HC"	"B"	27	"Male"	17	"Student"	"Yes"	"Yes"	1	"Online"	"MMORPG"	"A6"	14	13	11	16	8	11	16	8	14	7
-353	"meysschelcy@hotmail.com "	"HC"	"A"	22	"Female"	15	"Student"	"Yes"	"No"	3	"Offline"	"TPS"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-360	"ilyasjouhari7@gmail.com"	"PG"	"B"	23	"Male"	15	"Student"	"Yes"	"Yes"	6	"Online"	"MMORPG"	"A6"	15	12	11	13	6	13	11	9	8	9
-361	"megane2000@hotmail.be"	"PG"	"B"	21	"Female"	12	"Student"	"Yes"	"Yes"	4	"Both"	"FPS"	"A5"	19	13	15	12	4	15	14	11	11	13
-368	"mahmood.rafeh@yahoo.com"	"HC"	"A"	26	"Male"	17	"Independent"	"Yes"	"Yes"	3	"Online"	"MOBA"	"A6"	22	15	13	14	11	16	17	18	12	12
-370	"Elodiedelattre07@hotmail.com"	"HC"	"A"	24	"Female"	17	"Executive"	"Yes"	"Yes"	2	"Online"	"TPS"	"A6"	13	10	10	16	10	16	16	11	10	10
-371	"Sakinavanesse@gmail.com"	"HC"	"A"	20	"Female"	12	"Student"	"Yes"	"No"	2	"Online"	"RPG"	"A6"	15	11	11	16	8	13	12	9	12	7
-377	"comebuffet@gmail.com"	"PG"	"B"	19	"Male"	15	"Student"	"Yes"	"No"	5	"Online"	"MOBA"	"A6"	15	9	15	18	6	17	10	7	15	14
-379	"evapasquet028@gmail.com"	"HC"	"A"	18	"Female"	15	"Student"	"No"	"No"	2	"Both"	"PartyGame"	"A6"	13	8	10	10	3	10	19	15	10	8
-381	"Kenzo1130@hotmail.be "	"HC"	"B"	23	"Male"	15	"Student"	"Yes"	"Yes"	1	"Both"	"FPS"	"A6"	10	9	7	15	7	10	19	10	12	7
-385	"depreze123@gmail.com"	"PG"	"A"	34	"Male"	6	"Unemployed"	"Yes"	"No"	5	"Online"	"MMORPG"	"A5"	17	15	9	15	6	12	15	14	14	13
-386	"seyourilias@gmail.com"	"HC"	"A"	22	"Male"	15	"Student"	"Yes"	"No"	2	"Offline"	"RPG"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-388	"Adrien1298@hotmail.com"	"HC"	"B"	23	"Male"	0	"Unemployed"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-390	"mathildedelruelle@gmail.com"	"HC"	"A"	22	"Female"	17	"Student"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-391	"colle.marie@outlook.com"	"PG"	"B"	27	"Female"	9	"Employee"	"Yes"	"Yes"	5	"Online"	"FPS"	"A4"	24	18	13	20	11	14	18	15	15	13
-392	"noeljonathan94@gmail.com"	"HC"	"B"	27	"Male"	17	"Student"	"Yes"	"No"	3	"Both"	"RPG"	"A5"	11	18	8	7	4	11	10	8	3	11
-394	"starkiller.emerson@hotmail.com"	"HC"	"B"	21	"Male"	9	"Unemployed"	"Yes"	"Yes"	2	"Both"	"FPS"	"A4"	10	12	5	13	10	11	12	11	11	11
-395	"lara.navez@ulb.be"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"Yes"	2	"Offline"	"Gest"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-400	"phoebebruyere@gmail.com"	"HC"	"A"	22	"Female"	12	"Student"	"Yes"	"Yes"	2	"Offline"	"RPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-404	"julienmenuh@hotmail.be"	"PG"	"B"	25	"Male"	17	"Student"	"Yes"	"Yes"	6	"Offline"	"STR"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-407	"marthy_1230@hotmail.com"	"PG"	"A"	24	"Male"	12	"Employee"	"Yes"	"No"	4	"Online"	"FPS"	"A6"	10	5	7	13	5	18	9	6	4	7
-410	"W.t.porreweck@gmail.com"	"HC"	"B"	23	"Male"	17	"Student"	"Yes"	"No"	2	"Offline"	"FPS"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-413	"oceanefcn@hotmail.com"	"PG"	"A"	22	"Female"	15	"Student"	"Yes"	"No"	6	"Online"	"Gest"	"A6"	10	8	7	16	9	16	12	12	12	15
-414	"sarah.cornil05@gmail.com"	"HC"	"A"	22	"Female"	15	"Student"	"Yes"	"No"	2	"Offline"	"Gest"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-416	"meddybehogne@gmail.com "	"HC"	"A"	22	"Male"	0	"Employee"	"Yes"	"No"	0	"Online"	"PartyGame"	"A3"	6	9	9	11	5	13	5	4	7	4
-420	"Camille.Aitchedji@ulb.be"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	1	"Offline"	"PartyGame"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-423	"daratosfleur@gmail.com"	"PG"	"B"	23	"Female"	12	"Student"	"Yes"	"Yes"	4	"Online"	"FPS"	"A5"	26	13	16	20	12	20	20	14	10	10
-424	"arthurzandona2508@hotmail.com"	"PG"	"B"	27	"Male"	12	"Unemployed"	"Yes"	"Yes"	4	"Online"	"FPS"	"A6"	16	9	8	15	9	11	14	7	10	7
-425	"johan.krawczyk@hotmail.com"	"PG"	"A"	26	"Male"	15	"Student"	"Yes"	"Yes"	6	"Online"	"FPS"	"A5"	19	14	13	17	7	10	11	9	13	7
-427	"clemence.baudoin@hotmail.com"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-428	"clemence.baudoin@hotmail.com "	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-430	"hh.danna@gmail.com"	"HC"	"A"	26	"Female"	17	"Student"	"Yes"	"No"	2	"Offline"	"RPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-431	"claradistefano@outlook.com"	"HC"	"B"	23	"Female"	15	"Student"	"No"	"Yes"	2	"Offline"	"Gest"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-432	"maximecarpiaux@gmail.com"	"HC"	"A"	24	"Male"	15	"Unemployed"	"Yes"	"Yes"	0	"Offline"	"Sport"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-434	"marion.mamier@yahoo.com "	"PG"	"B"	19	"Female"	15	"Unemployed"	"Yes"	"No"	4	"Online"	"FPS"	"A6"	13	9	15	18	10	18	15	12	10	11
-437	"debo5559@hotmail.fr"	"HC"	"A"	32	"Female"	12	"Employee"	"Yes"	"Yes"	1	"Online"	"FPS"	"A6"	19	9	10	18	13	14	13	9	6	7
-441	"Ouikassirania@gmail.com"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	3	"Online"	"FPS"	"A5"	12	11	18	18	14	11	8	12	9	11
-442	"melissamartins@outlook.fr"	"PG"	"A"	30	"Female"	12	"Employee"	"Yes"	"No"	7	"Online"	"FPS"	"A5"	21	14	13	17	12	12	16	16	12	12
-444	"meddy.behogne@gmail.com"	"HC"	"A"	22	"Male"	6	"Employee"	"Yes"	"No"	0	"Online"	"TPS"	"A3"	6	4	4	4	3	16	4	4	3	3
-445	"kenzo1130@hotmail.be"	"HC"	"B"	23	"Male"	15	"Student"	"Yes"	"Yes"	0	"Both"	"FPS"	"A4"	13	14	9	11	6	8	16	12	11	7
-448	"emel.dalgic@hotmail.com"	"PG"	"B"	23	"Female"	15	"Student"	"Yes"	"Yes"	4	"Both"	"RPG"	"A4"	17	10	10	19	8	10	16	6	10	7
-453	"vdborght.arnaud@gmail.com"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	3	"Online"	"MOBA"	"A5"	10	5	8	11	6	15	5	7	5	6
-458	"caroline.pire16@gmail.com"	"HC"	"B"	25	"Female"	17	"Student"	"Yes"	"No"	0	"Offline"	"MMORPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-459	"cindy.mottet@ulb.be"	"PG"	"A"	26	"Female"	15	"Student"	"Yes"	"No"	7	"Online"	"STR"	"A4"	17	13	5	15	9	7	6	7	7	7
-463	"w.osias@hotmail.com"	"HC"	"A"	28	"Male"	15	"Student"	"Yes"	"No"	3	"Both"	"FPS"	"A4"	19	11	12	10	7	10	8	8	11	8
-466	"gaspimini@gmail.com"	"PG"	"A"	26	"Male"	12	"Student"	"Yes"	"No"	6	"Online"	"MOBA"	"A6"	18	10	11	11	4	8	13	6	7	7
-467	"ro.pierre@laposte.net "	"PG"	"A"	24	"Male"	12	"Student"	"Yes"	"Yes"	4	"Both"	"MMORPG"	"A6"	18	18	18	14	11	9	18	13	13	12
-473	"Lisa-Marie.m.c@hotmail.com"	"HC"	"A"	20	"Female"	15	"Employee"	"Yes"	"Yes"	1	"Online"	"FPS"	"A5"	11	8	6	16	8	14	17	6	5	6
-474	"philippine.moret@ulb.be"	"PG"	"B"	23	"Female"	15	"Student"	"Yes"	"No"	4	"Both"	"RPG"	"A4"	15	13	6	15	6	8	18	14	8	13
-476	"Fastylena@gmail.com "	"PG"	"B"	23	"Female"	12	"Unemployed"	"Yes"	"Yes"	5	"Online"	"MOBA"	"A4"	16	10	12	10	7	11	8	8	6	5
-477	"permentiers.gaetan@gmail.com"	"HC"	"A"	22	"Male"	15	"Student"	"Yes"	"No"	3	"Both"	"FPS"	"A4"	13	12	10	10	5	8	16	8	9	7
-483	"surifore@hotmail.com"	"HC"	"B"	29	"Male"	17	"Employee"	"Yes"	"No"	1	"Offline"	"MMORPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-487	"kennylushiku@gmail.com"	"HC"	"A"	24	"Male"	17	"Student"	"Yes"	"No"	0	"Offline"	"FPS"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-490	"deschuyt.severine@hotmail.fr"	"PG"	"B"	25	"Female"	15	"Student"	"Yes"	"Yes"	5	"Offline"	"RPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-492	"loan.lissens@hotmail.com"	"PG"	"B"	19	"Male"	12	"Student"	"Yes"	"No"	4	"Online"	"MOBA"	"A6"	18	8	6	14	6	10	15	8	8	6
-495	"dogan.serhat@outlook.com"	"HC"	"B"	23	"Male"	12	"Student"	"Yes"	"No"	1	"Both"	"MMORPG"	"A6"	11	11	9	19	11	15	10	9	5	6
-500	"souf-style@hotmail.fr"	"PG"	"B"	25	"Male"	12	"Student"	"Yes"	"No"	4	"Online"	"MOBA"	"A6"	18	11	13	11	9	9	17	10	3	10
-506	"gabrielle.antoine@hotmail.com "	"PG"	"B"	25	"Female"	15	"Student"	"Yes"	"Yes"	4	"Offline"	"RPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-510	"Navermeu@gmail.com "	"PG"	"A"	30	"Female"	17	"Employee"	"Yes"	"No"	4	"Both"	"MMORPG"	"A6"	13	9	4	14	12	10	20	8	10	11
-511	"clementgottlieb7995@live.be"	"HC"	"B"	25	"Male"	17	"Employee"	"Yes"	"Yes"	1	"Both"	"RPG"	"A6"	12	7	6	13	4	14	18	10	10	5
-512	"laxxter89@gmail.com "	"PG"	"B"	31	"Other"	6	"Unemployed"	"Yes"	"No"	6	"Both"	"FPS"	"A5"	17	16	7	14	6	10	16	15	11	11
-513	"miscosasbryantete999@gmail.com"	"PG"	"B"	21	"Male"	12	"Student"	"Yes"	"No"	7	"Online"	"TPS"	"A5"	21	12	14	11	8	10	14	14	9	12
-515	"mouharance2020chlhh@gmail.com"	"PG"	"B"	25	"Male"	17	"Student"	"Yes"	"No"	5	"Online"	"Gest"	"A6"	19	16	10	14	5	9	9	12	4	9
-516	"robincourtequisse@outlook.com"	"HC"	"B"	25	"Male"	17	"Unemployed"	"Yes"	"No"	2	"Offline"	"STR"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-517	"eliana-asvestaris19@hotmail.com"	"HC"	"B"	25	"Female"	17	"Student"	"Yes"	"No"	2	"Offline"	"STR"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-525	"leb.matteo@gmail.com"	"HC"	"B"	21	"Male"	12	"Student"	"No"	"Yes"	2	"Online"	"MOBA"	"A5"	13	11	7	6	7	9	17	6	10	9
-527	"tomi.piirainen@hotmail.com"	"HC"	"A"	22	"Male"	12	"Student"	"Yes"	"No"	3	"Both"	"FPS"	"A6"	17	9	11	13	8	11	11	11	9	9
-528	"alfred.duquesne@ulb.be"	"HC"	"A"	20	"Male"	12	"Student"	"Yes"	"Yes"	1	"Online"	"FPS"	"A4"	19	10	18	9	4	15	4	5	10	7
-529	"mgmartimgarvais@gmail.com"	"HC"	"A"	24	"Male"	17	"Student"	"Yes"	"Yes"	3	"Both"	"FPS"	"A6"	14	12	11	16	9	14	11	6	8	8
-530	"ptitkonrad@gmail.com"	"HC"	"A"	20	"Male"	12	"Student"	"Yes"	"No"	0	"Online"	"MOBA"	"A6"	10	10	6	13	3	15	6	10	5	3
-532	"gauthier909@hotmail.com"	"PG"	"B"	25	"Male"	15	"Student"	"Yes"	"No"	6	"Offline"	"FPS"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-535	"edouard.duq@gmail.com"	"PG"	"A"	22	"Male"	15	"Student"	"No"	"Yes"	4	"Online"	"FPS"	"A4"	22	18	15	14	13	12	15	18	14	13
-539	"Fandevalence@yahoo.fr"	"HC"	"A"	32	"Male"	17	"Executive"	"Yes"	"No"	2	"Both"	"Sport"	"A4"	15	8	11	14	8	15	13	11	8	8
-542	"charly.fillon@gmail.com"	"HC"	"B"	23	"Male"	15	"Student"	"Yes"	"Yes"	0	"Offline"	"MMORPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-546	"ednaduvinage@gmail.com"	"HC"	"B"	31	"Female"	17	"Employee"	"Yes"	"No"	2	"Offline"	"RPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-548	"mnn.dlb@gmail.com"	"HC"	"A"	24	"Female"	15	"Student"	"Yes"	"Yes"	1	"Offline"	"Gest"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-552	"v_vissotsky@hotmail.com"	"HC"	"A"	26	"Male"	17	"Student"	"Yes"	"No"	2	"Both"	"MOBA"	"A5"	17	15	11	14	11	13	9	6	3	9
-554	"Jonathan.jacquemart@outlook.com"	"PG"	"A"	28	"Male"	17	"Employee"	"No"	"Yes"	5	"Offline"	"STR"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-562	"collinlefebvre1999@gmail.com"	"HC"	"B"	21	"Male"	12	"Student"	"Yes"	"Yes"	2	"Online"	"FPS"	"A6"	15	13	14	11	7	16	16	6	12	7
-563	"victor.wautier@gmail.com"	"HC"	"A"	22	"Male"	12	"Student"	"Yes"	"Yes"	2	"Online"	"MOBA"	"A6"	10	13	12	15	4	18	9	5	3	8
-564	"laura.sciot@hotmail.com"	"HC"	"A"	24	"Female"	15	"Student"	"No"	"Yes"	2	"Online"	"FPS"	"A4"	12	11	8	9	3	10	8	5	9	5
-565	"thomas_giets@hotmail.com"	"HC"	"A"	24	"Male"	15	"Student"	"No"	"Yes"	3	"Online"	"FPS"	"A3"	10	13	10	12	5	16	11	11	3	8
-568	"qanthony.aq@gmail.com"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	1	"Online"	"FPS"	"A4"	10	8	7	12	3	16	6	7	3	5
-571	"eliot.tomson@ulb.be"	"HC"	"A"	20	"Male"	15	"Student"	"Yes"	"No"	3	"Online"	"MOBA"	"A6"	16	11	10	12	4	12	12	7	7	8
-573	"dalmaziodavid@gmail.com"	"HC"	"B"	19	"Male"	12	"Student"	"Yes"	"No"	2	"Online"	"RPG"	"A6"	11	8	6	14	5	16	10	5	4	6
-575	"t.vanhenden@gmail.com"	"PG"	"B"	21	"Male"	12	"Student"	"Yes"	"Yes"	6	"Both"	"FPS"	"A6"	18	13	7	16	9	12	15	11	12	9
-578	"nathandelos@hotmail.fr"	"HC"	"B"	21	"Male"	12	"Student"	"Yes"	"No"	3	"Both"	"RPG"	"A6"	17	13	11	12	11	14	20	20	10	11
-579	"Alice.dewouters@gmail.com"	"HC"	"A"	26	"Female"	17	"Employee"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-580	"alice.dewouters@gmail.com"	"HC"	"A"	26	"Female"	17	"Employee"	"Yes"	"Yes"	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-582	"ilyas.fatih00@gmail.com"	"HC"	"B"	19	"Male"	12	"Student"	"Yes"	"No"	1	"Online"	"Sport"	"A6"	9	5	6	5	4	17	5	7	4	5
-583	"incantessimo86@Yahoo.fr"	"PG"	"A"	34	"Female"	17	"Independent"	"Yes"	"No"	5	"Both"	"MMORPG"	"A5"	24	17	16	17	12	11	17	18	12	12
-588	"dusartkevin@gmail.com"	"HC"	"A"	30	"Male"	17	"Independent"	"Yes"	"Yes"	1	"Offline"	"RPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-589	"julieug@orange.fr"	"HC"	"A"	20	"Female"	0	"Student"	"Yes"	"No"	1	"Offline"	"STR"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-591	"lolae0@hotmail.com"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"No"	2	"Offline"	"PartyGame"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-593	"charles.jabe@hotmail.be"	"HC"	"A"	20	"Male"	12	"Student"	"Yes"	"No"	0	"Offline"	"FPS"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-594	"incantessimo86@yahoo.fr"	"PG"	"A"	34	"Female"	17	"Independent"	"Yes"	"No"	7	"Both"	"FPS"	"A5"	24	16	15	16	12	11	16	16	12	12
-600	"theo.aslanides@gmail.com"	"PG"	"B"	25	"Male"	15	"Student"	"Yes"	"Yes"	4	"Online"	"FPS"	"A6"	16	9	16	16	12	13	13	11	6	9
-601	"litalynda@yahoo.com"	"PG"	"A"	26	"Female"	17	"Student"	"Yes"	"No"	6	"Online"	"MMORPG"	"A4"	26	15	16	12	5	15	8	9	8	10
-605	"rous.pauline@gmail.com"	"HC"	"A"	26	"Female"	17	"Employee"	"Yes"	"No"	3	"Offline"	"MMORPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-606	"anton.merlin@gmail.com"	"PG"	"A"	28	"Male"	15	"Employee"	"No"	"Yes"	4	"Online"	"MMORPG"	"A5"	18	17	11	13	8	11	18	7	13	7
-607	"martin.fonteyn@hotmail.com"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	0	"Offline"	"PartyGame"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-608	"aviatorch1995@gmail.com"	"HC"	"A"	26	"Male"	15	"Student"	"Yes"	"Yes"	1	"Online"	"MMORPG"	"A6"	16	7	12	9	7	14	8	6	4	6
-610	"jeremie.potaznik@gmail.com"	"PG"	"B"	23	"Male"	15	"Employee"	"No"	"No"	6	"Both"	"STR"	"A5"	13	11	8	17	10	14	12	13	12	9
-613	"flooclock@hotmail.fr"	"HC"	"B"	25	"Male"	17	"Employee"	"Yes"	"No"	0	"Both"	"FPS"	"A3"	15	15	11	16	9	13	10	10	7	5
-615	"maellevandewalle.76@gmail.com "	"PG"	"A"	26	"Female"	17	"Employee"	"Yes"	"Yes"	5	"Offline"	"MMORPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-617	"severinedegheele@hotmail.com"	"HC"	"A"	22	"Female"	12	"Student"	"Yes"	"Yes"	1	"Online"	"Gest"	"A4"	16	15	12	11	5	11	13	12	8	7
-618	"loic.vanhecke@live.com"	"PG"	"B"	21	"Male"	12	"Student"	"Yes"	"Yes"	5	"Online"	"FPS"	"A6"	19	15	7	10	3	6	15	10	8	12
-619	"marley.wattier@ulb.be"	"PG"	"B"	21	"Female"	12	"Student"	"Yes"	"No"	4	"Online"	"Gest"	"A5"	13	15	4	12	4	6	16	18	10	15
-621	"flolouicis@hotmail.fr"	"HC"	"B"	23	"Male"	12	"Unemployed"	"Yes"	"No"	3	"Both"	"FPS"	"A6"	10	7	6	14	3	13	14	7	6	10
-626	"arnaud.peeters95@gmail.com"	"HC"	"A"	26	"Male"	17	"Employee"	"Yes"	"Yes"	1	"Both"	"FPS"	"A3"	14	11	8	16	8	15	15	10	11	7
-629	"romainmulkay@hotmail.com"	"HC"	"B"	25	"Male"	17	"Student"	"Yes"	"No"	0	"Offline"	"STR"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-631	"joachim.balis@outlook.com"	"HC"	"B"	23	"Male"	12	"Employee"	"Yes"	"No"	1	"Online"	"RPG"	"A3"	12	11	10	8	4	19	4	4	3	7
-633	"castlesuceurs@aol.fr"	"HC"	"B"	25	"Male"	17	"Employee"	"No"	"No"	3	"Online"	"FPS"	"A6"	15	15	11	16	12	18	16	4	9	6
-634	"kowshikkanandarajah@gmail.com"	"PG"	"B"	15	"Male"	0	"Student"	"Yes"	"No"	6	"Online"	"MOBA"	"A6"	21	11	17	12	10	9	7	14	7	9
-637	"leoseyers@gmail.com"	"HC"	"B"	29	"Male"	17	"Independent"	"Yes"	"Yes"	3	"Online"	"MMORPG"	"A4"	14	16	16	18	9	13	6	8	6	9
-641	"maxim1404@gmail.com"	"HC"	"A"	22	"Male"	9	"Student"	"Yes"	"No"	3	"Both"	"MOBA"	"A5"	9	16	9	17	10	11	5	5	7	9
-644	"archibald6587@gmail.com"	"HC"	"B"	29	"Male"	17	"Unemployed"	"Yes"	"Yes"	2	"Online"	"Sport"	"A5"	14	14	13	13	4	15	15	11	6	7
-646	"gjini-johan@outlook.fr"	"HC"	"B"	21	"Male"	12	"Student"	"Yes"	"Yes"	3	"Online"	"MOBA"	"A6"	20	14	14	12	7	13	16	9	7	8
-648	"gauthamanandarajah11@gmail.com"	"HC"	"B"	27	"Male"	0	"Unemployed"	"Yes"	"No"	0	"Online"	"TPS"	"A3"	6	4	6	11	4	20	5	7	3	4
-650	"fionaprassas@gmail.com"	"HC"	"B"	21	"Female"	12	"Student"	"Yes"	"Yes"	2	"Both"	"PartyGame"	"A4"	9	7	5	8	3	14	7	5	4	6
-651	"ecececazer@gmail.com"	"HC"	"A"	24	"Male"	17	"Student"	"Yes"	"Yes"	1	"Both"	"FPS"	"A5"	10	7	8	7	3	12	12	7	7	9
-656	"burak-sogutlu@hotmail.com"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	3	"Both"	"RPG"	"A6"	18	10	11	7	3	13	10	8	10	8
-659	"oumayma.acha97@outlook.com"	"HC"	"A"	24	"Female"	12	"Student"	"Yes"	"No"	0	"Offline"	"Sport"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-661	"charlie@debecker.org"	"PG"	"A"	24	"Male"	17	"Student"	"Yes"	"Yes"	5	"Online"	"FPS"	"A3"	18	8	10	11	6	17	10	8	12	11
-665	"lana.mordi@yahoo.com"	"PG"	"A"	22	"Female"	12	"Student"	"Yes"	"No"	4	"Online"	"TPS"	"A5"	20	13	14	11	11	13	15	11	3	8
-666	"florian.soyez@hotmail.com"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	1	"Both"	"RPG"	"A6"	15	11	11	15	9	16	13	12	4	6
-667	"anaisverbist@gmail.com "	"HC"	"B"	19	"Female"	12	"Student"	"No"	"No"	1	"Both"	"Sport"	"A6"	12	6	7	6	3	17	5	4	3	3
-668	"philippe3parmentier@gmail.com"	"PG"	"B"	21	"Male"	12	"Student"	"Yes"	"Yes"	4	"Online"	"MMORPG"	"A6"	22	17	8	18	10	16	10	7	11	11
-672	"patientnlabu20@gmail.com"	"PG"	"A"	24	"Male"	12	"Other"	"Yes"	"No"	6	"Online"	"FPS"	"A5"	19	14	15	12	6	9	14	7	5	11
-673	"nicolasdel20@gmail.com"	"HC"	"B"	27	"Male"	15	"Student"	"Yes"	"Yes"	3	"Online"	"FPS"	"A6"	11	20	12	10	11	12	12	11	14	6
-674	"hugopetry1@gmail.com"	"HC"	"B"	27	"Male"	17	"Employee"	"Yes"	"Yes"	1	"Both"	"RPG"	"A6"	18	11	10	18	5	10	15	9	7	8
-676	"niels.vanhecke9@gmail.com"	"PG"	"A"	18	"Male"	12	"Student"	"No"	"No"	4	"Online"	"FPS"	"A4"	21	15	5	18	10	14	16	15	12	14
-681	"37587@heb.be"	"PG"	"B"	29	"Female"	15	"Unemployed"	"Yes"	"No"	7	"Offline"	"FPS"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-682	"justine.dreumont@outlook.fr"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"No"	3	"Offline"	"FPS"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-683	"mikadepreter@gmail.com"	"HC"	"A"	22	"Male"	15	"Student"	"Yes"	"Yes"	3	"Online"	"FPS"	"A5"	14	12	9	15	9	12	14	11	4	7
-686	"nathandelil@outlook.com"	"PG"	"B"	21	"Male"	12	"Student"	"Yes"	"No"	6	"Both"	"RPG"	"A5"	16	9	4	9	7	6	16	11	3	10
+"NS"	"Mail1"	"GrpMono"	"GrpPoly"	"Order"	"Age"	"Gender"	"StudyLvl"	"Work"	"Contactable"	"DrugUse"	"GAS"	"GASsum"	"OL"	"MainGame"	"LastSession"	"Advancement"	"Mechanics"	"Competition"	"Socializing"	"Relationship"	"Teamwork"	"Discovery"	"Roleplaying"	"Customization"	"Escapism"
+12	"capi.mayne@gmail.com"	"HC"	"PG"	"B"	23	"Male"	15	"Student"	"Yes"	"Yes"	6	24	"Online"	"MMORPG"	"A6"	21	16	8	19	10	15	12	8	10	9
+13	"laury.goossens@hotmail.com"	"HC"	"HC"	"A"	18	"Male"	9	"Student"	"Yes"	"Yes"	1	13	"Both"	"Gest"	"A6"	6	4	4	4	3	13	4	4	3	3
+14	"delphinecuvelier@hotmail.be"	"HC"	"HC"	"B"	25	"Female"	17	"Student"	"Yes"	"Yes"	2	14	"Online"	"MMORPG"	"A5"	10	10	8	11	4	16	6	5	4	7
+20	"thomas.bode.blanco@hotmail.com"	"HC"	"HC"	"B"	25	"Male"	15	"Student"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+21	"antonin.3@hotmail.com"	"HC"	"HC"	"A"	24	"Male"	17	"Student"	"Yes"	"Yes"	2	14	"Offline"	"RPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+22	"Jo.vancop@hotmail.be"	"HC"	"PG"	"A"	28	"Male"	17	"Unemployed"	"Yes"	"Yes"	4	20	"Both"	"MMORPG"	"A6"	16	14	5	8	3	11	10	7	10	8
+28	"ggvanels@hotmail.be"	"HC"	"PG"	"A"	22	"Male"	12	"Student"	"Yes"	"Yes"	6	30	"Online"	"MMORPG"	"A6"	16	14	9	12	13	10	18	5	3	10
+30	"e.mostin@outlook.be "	"HC"	"HC"	"B"	21	"Female"	12	"Student"	"No"	"No"	1	9	"Offline"	"MMORPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+32	"lina.vanbellinghen@gmail.com"	"HC"	"HC"	"A"	20	"Female"	12	"Student"	"Yes"	"Yes"	0	11	"Offline"	"PartyGame"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+33	"andreea.rabei@ulb.be"	"HC"	"HC"	"A"	20	"Female"	12	"Student"	"Yes"	"No"	1	9	"Offline"	"PartyGame"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+34	"Colin.vancoppenolle@hotmail.be"	"HC"	"HC"	"A"	30	"Male"	12	"Unemployed"	"Yes"	"No"	3	16	"Both"	"RPG"	"A5"	9	6	8	15	9	9	18	12	5	7
+35	"alexandre.beeckmans@gmail.com"	"HC"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	2	12	"Online"	"MMORPG"	"A6"	17	7	13	19	8	10	20	17	7	10
+36	"m.vancoppenolle@outlook.com"	"HC"	"HC"	"A"	26	"Male"	15	"Unemployed"	"Yes"	"Yes"	0	9	"Offline"	"PartyGame"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+40	"guilhem.tailliez@gmail.com"	"HC"	"PG"	"B"	25	"Male"	15	"Independent"	"No"	"No"	6	23	"Online"	"MMORPG"	"A6"	23	17	13	12	9	12	4	6	9	7
+43	"antoineleroy34920@gmail.com"	"PG"	"PG"	"A"	24	"Male"	15	"Employee"	"Yes"	"No"	7	26	"Online"	"FPS"	"A6"	21	13	10	17	10	14	16	8	6	8
+44	"baptima1@gmail.com"	"HC"	"PG"	"A"	22	"Male"	12	"Student"	"Yes"	"Yes"	6	25	"Online"	"MMORPG"	"A6"	16	14	8	14	7	9	7	4	5	5
+45	"mohamedbenomar145@gmail.com"	"HC"	"HC"	"A"	22	"Male"	17	"Student"	"Yes"	"Yes"	1	11	"Online"	"FPS"	"A6"	9	8	12	6	3	16	13	5	10	6
+47	"gaspard.groux@orange.fr"	"HC"	"PG"	"A"	22	"Male"	15	"Student"	"Yes"	"Yes"	4	18	"Online"	"MOBA"	"A6"	12	13	16	10	5	12	14	8	11	11
+48	"paul.chans@live.fr"	"HC"	"HC"	"A"	22	"Male"	9	"Student"	"Yes"	"No"	2	13	"Online"	"MOBA"	"A6"	17	19	17	12	9	15	6	10	7	6
+49	"igep.pegi@gmail.com"	"HC"	"PG"	"A"	22	"Male"	17	"Student"	"No"	"No"	4	19	"Online"	"MOBA"	"A6"	23	14	16	8	6	12	9	9	14	13
+53	"roubadrien@gmail.com"	"PG"	"PG"	"B"	21	"Male"	17	"Student"	"Yes"	"Yes"	7	28	"Online"	"MOBA"	"A6"	23	18	11	16	9	17	10	5	5	8
+56	"alexdrg18@gmail.com"	"HC"	"HC"	"A"	20	"Male"	15	"Student"	"Yes"	"Yes"	3	16	"Online"	"Sport"	"A5"	15	9	10	10	7	17	11	7	10	9
+57	"titoubois14@gmail.com"	"HC"	"HC"	"A"	20	"Female"	15	"Student"	"No"	"No"	1	10	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+61	"duchene.thibaut@hotmail.com"	"HC"	"HC"	"A"	24	"Male"	15	"Student"	"Yes"	"Yes"	1	13	"Both"	"FPS"	"A5"	14	11	6	12	4	11	17	11	11	8
+62	"moureaux.w@hotmail.com"	"HC"	"HC"	"B"	25	"Male"	12	"Unemployed"	"Yes"	"Yes"	3	18	"Both"	"FPS"	"A5"	15	16	4	8	3	5	18	10	11	9
+65	"jaeck.cinthia@gmail.com"	"HC"	"PG"	"B"	31	"Female"	17	"Executive"	"Yes"	"No"	6	26	"Online"	"MMORPG"	"A6"	17	13	4	18	11	10	17	12	15	15
+66	"johnbelis755@gmail.com"	"HC"	"HC"	"A"	22	"Male"	12	"Student"	"Yes"	"Yes"	1	12	"Online"	"Sport"	"A4"	20	12	14	12	6	13	13	10	10	6
+67	"joshua.boulin@gmail.com"	"HC"	"PG"	"A"	22	"Male"	15	"Workman"	"Yes"	"No"	4	18	"Both"	"MMORPG"	"A6"	16	17	7	16	12	9	13	9	13	9
+70	"celia.kieckens@hotmail.com"	"HC"	"PG"	"B"	19	"Female"	12	"Student"	"Yes"	"Yes"	4	18	"Online"	"STR"	"A6"	21	10	13	7	5	12	8	7	11	11
+72	"meunier.amelin@gmail.com"	"HC"	"HC"	"A"	30	"Male"	15	"Workman"	"Yes"	"Yes"	3	15	"Online"	"FPS"	"A6"	18	11	11	18	9	15	12	12	10	9
+73	"theo.meunier71@outlook.fr"	"HC"	"HC"	"A"	22	"Male"	17	"Other"	"Yes"	"No"	2	14	"Online"	"STR"	"A6"	15	13	5	15	10	11	14	8	3	7
+74	"theo.meunier2@outlook.fr"	"HC"	"HC"	"A"	22	"Male"	17	"Other"	"Yes"	"No"	1	12	"Online"	"STR"	"A6"	12	12	5	13	10	13	13	8	3	7
+75	"Theo.meunier71@outlook.fr"	"HC"	"HC"	"A"	22	"Male"	17	"Other"	"Yes"	"No"	1	12	"Online"	"STR"	"A6"	12	13	5	15	10	13	15	8	3	7
+79	"Manon.goursaud33@gmail.com"	"HC"	"HC"	"B"	25	"Female"	9	"Employee"	"Yes"	"No"	0	9	"Offline"	"Sport"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+81	"Saradjfour@gmail.com"	"PG"	"PG"	"A"	24	"Female"	0	"Unemployed"	"Yes"	"Yes"	7	28	"Online"	"FPS"	"A6"	17	12	17	14	10	12	14	11	10	11
+91	"Marie_vanaut@hotmail.com"	"HC"	"PG"	"A"	26	"Female"	12	"Employee"	"Yes"	"No"	4	18	"Online"	"FPS"	"A6"	24	12	12	15	8	11	16	11	7	10
+93	"Ameyer167@gmail.com"	"HC"	"PG"	"A"	24	"Female"	9	"Employee"	"Yes"	"No"	6	24	"Both"	"RPG"	"A5"	23	13	17	15	13	14	13	9	6	11
+95	"maeva.labourel@hotmail.fr"	"PG"	"PG"	"A"	34	"Female"	6	"Unemployed"	"Yes"	"Yes"	7	30	"Both"	"MMORPG"	"A6"	20	12	10	14	5	11	19	16	11	15
+96	"marion.berchtold@hotmail.fr"	"HC"	"PG"	"A"	22	"Female"	15	"Employee"	"Yes"	"Yes"	6	22	"Online"	"FPS"	"A5"	19	15	11	20	10	10	11	13	8	14
+97	"jean.detheux@hotmail.com"	"HC"	"HC"	"B"	23	"Male"	12	"Workman"	"Yes"	"Yes"	0	7	"Offline"	"Sport"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+99	"paulboschetto@hotmail.fr"	"HC"	"HC"	"A"	28	"Male"	12	"Employee"	"Yes"	"Yes"	2	13	"Online"	"MMORPG"	"A6"	16	10	7	17	7	13	18	10	9	7
+101	"zaghouani.t@gmail.com"	"HC"	"HC"	"A"	28	"Male"	15	"Student"	"Yes"	"Yes"	2	14	"Online"	"FPS"	"A5"	13	4	4	4	3	15	4	4	3	3
+102	"nicolas.claise@gmail.com"	"HC"	"HC"	"B"	29	"Male"	17	"Independent"	"No"	"Yes"	1	12	"Online"	"Sport"	"A3"	6	6	11	8	4	16	4	4	3	6
+112	"Nelsom.naima@gmail.com"	"HC"	"PG"	"A"	20	"Female"	15	"Student"	"Yes"	"Yes"	4	20	"Offline"	"RPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+114	"laurine.vulcana@gmail.com"	"HC"	"PG"	"A"	16	"Female"	15	"Student"	"Yes"	"No"	5	21	"Online"	"FPS"	"A5"	18	12	7	20	8	14	14	16	5	12
+123	"emilie.serra84@yahoo.com"	"HC"	"HC"	"A"	18	"Female"	9	"Student"	"Yes"	"No"	2	14	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+124	"lecunff.lohanne@gmail.com"	"PG"	"PG"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	7	29	"Both"	"Gest"	"A5"	21	9	9	12	10	11	15	9	10	15
+129	"helene.batisse@hotmail.fr"	"HC"	"HC"	"A"	26	"Female"	17	"Student"	"Yes"	"No"	3	15	"Both"	"RPG"	"A5"	15	12	5	20	13	11	17	8	7	11
+136	"meline.solene59@gmail.com"	"HC"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	2	14	"Online"	"TPS"	"A5"	8	7	8	12	5	16	14	7	5	3
+151	"Noemiejp@aol.com"	"HC"	"HC"	"B"	39	"Female"	17	"Unemployed"	"Yes"	"No"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+158	"Maelle.becquet14@hotmail.fr "	"HC"	"PG"	"B"	27	"Female"	15	"Student"	"Yes"	"Yes"	5	23	"Both"	"RPG"	"A5"	20	8	12	15	8	11	15	13	8	12
+159	"jessica.noury@outlook.com"	"HC"	"PG"	"A"	20	"Other"	9	"Employee"	"Yes"	"Yes"	4	20	"Both"	"MOBA"	"A6"	19	12	9	15	12	8	15	15	10	12
+161	"ciesielskidel@gmail.com"	"HC"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"Yes"	1	13	"Offline"	"Gest"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+163	"e.cocault@hotmail.fr"	"HC"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	0	7	"Offline"	"Sport"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+166	"Soobithan@gmail.com"	"HC"	"PG"	"B"	21	"Male"	15	"Student"	"Yes"	"Yes"	4	20	"Online"	"FPS"	"A6"	18	15	12	16	11	20	16	7	12	13
+170	"kenny.noury56@gmail.com"	"HC"	"PG"	"B"	15	"Male"	9	"Student"	"Yes"	"No"	5	24	"Online"	"FPS"	"A6"	20	11	16	13	10	15	8	6	6	12
+172	"jules.saboye5@gmail.com"	"HC"	"PG"	"A"	22	"Male"	17	"Student"	"Yes"	"Yes"	4	18	"Offline"	"Sport"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+173	"hoyauclemence15@gmail.com"	"HC"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	1	10	"Both"	"STR"	"A2"	24	17	20	14	5	9	20	14	12	11
+174	"lau.gvn@gmail.com"	"HC"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	2	12	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+175	"quentin.chesnot@hotmail.fr"	"HC"	"PG"	"A"	20	"Male"	17	"Employee"	"No"	"No"	5	20	"Both"	"MMORPG"	"A4"	9	9	6	5	6	15	17	11	9	9
+177	"leorier15@gmail.com"	"HC"	"HC"	"A"	18	"Female"	9	"Student"	"Yes"	"No"	3	18	"Online"	"PartyGame"	"A4"	21	12	11	14	6	12	15	11	10	9
+181	"giappesim@gmail.com"	"HC"	"HC"	"B"	21	"Female"	17	"Student"	"Yes"	"No"	1	11	"Offline"	"Gest"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+182	"annelyse.karanakov@gmail.com"	"HC"	"HC"	"A"	22	"Female"	15	"Student"	"Yes"	"Yes"	1	12	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+183	"quentin-walter@orange.fr"	"HC"	"PG"	"A"	20	"Male"	15	"Student"	"Yes"	"Yes"	4	19	"Both"	"RPG"	"A6"	18	19	11	15	10	5	20	8	12	14
+184	"emilia.cruz0204@gmail.com "	"HC"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	0	8	"Offline"	"PartyGame"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+186	"stephanieshiraku@gmail.com"	"PG"	"PG"	"A"	26	"Female"	17	"Unemployed"	"Yes"	"No"	7	30	"Online"	"FPS"	"A6"	17	14	10	13	9	9	20	12	15	15
+188	"chloe.pouytes@orange.fr"	"HC"	"HC"	"A"	22	"Female"	17	"Student"	"Yes"	"No"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+189	"crystal.tomaszewski@wanadoo.fr"	"HC"	"HC"	"A"	24	"Female"	17	"Student"	"Yes"	"No"	0	10	"Online"	"MMORPG"	"A5"	12	4	4	15	5	13	18	9	7	4
+190	"soliana.perna@student.uclouvain.be"	"HC"	"HC"	"B"	21	"Female"	15	"Student"	"Yes"	"No"	3	18	"Online"	"Gest"	"A4"	18	11	5	7	3	10	6	9	8	10
+193	"morganereynero@icloud.com"	"HC"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+196	"manonchesnot22@gmail.com"	"HC"	"HC"	"A"	20	"Female"	0	"Student"	"Yes"	"No"	1	11	"Offline"	"PartyGame"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+198	"fexon63@hotmail.fr"	"HC"	"PG"	"B"	23	"Male"	15	"Unemployed"	"Yes"	"No"	4	17	"Both"	"RPG"	"A5"	14	15	5	14	10	10	20	18	15	7
+199	"solene.hillion1@etu.univ-nantes.fr"	"HC"	"HC"	"A"	22	"Female"	6	"Student"	"Yes"	"No"	0	7	"Offline"	"STR"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+200	"fantinebridou9@gmail.com"	"HC"	"HC"	"B"	21	"Female"	17	"Student"	"Yes"	"No"	2	12	"Online"	"Gest"	"A5"	13	10	4	9	4	8	11	12	11	7
+202	"lucie-soulard@orange.fr"	"HC"	"PG"	"B"	21	"Female"	15	"Student"	"Yes"	"No"	4	20	"Offline"	"Gest"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+207	"ouachani.lokman17@gmail.com"	"HC"	"HC"	"A"	28	"Male"	15	"Student"	"Yes"	"No"	0	10	"Offline"	"Sport"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+208	"nathanmejbouri@gmail.com"	"PG"	"PG"	"A"	20	"Male"	15	"Student"	"Yes"	"No"	7	35	"Both"	"FPS"	"A6"	17	11	8	16	7	8	8	8	11	14
+210	"Zombojessica@gmail.com"	"HC"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+213	"Margauxcamby@live.be"	"HC"	"HC"	"A"	24	"Female"	15	"Student"	"Yes"	"Yes"	2	12	"Offline"	"MMORPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+214	"mathieu.cvll@gmail.com"	"HC"	"HC"	"B"	21	"Male"	15	"Employee"	"Yes"	"Yes"	1	12	"Both"	"RPG"	"A6"	14	15	5	17	12	8	18	9	11	7
+215	"natachadker@gmail.com"	"HC"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	1	10	"Online"	"TPS"	"A6"	17	14	12	18	7	9	6	9	8	9
+219	"fred2a96@gmail.com"	"HC"	"PG"	"A"	24	"Male"	6	"Employee"	"Yes"	"Yes"	4	23	"Both"	"RPG"	"A6"	14	12	9	9	8	11	20	9	4	13
+220	"cassandra.perront.etu@univ-lille.fr"	"HC"	"HC"	"B"	19	"Female"	15	"Student"	"Yes"	"Yes"	2	15	"Offline"	"FPS"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+223	"emeline.hamon97@gmail.com"	"HC"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+228	"jennifer5.geenen58640@gmail.com"	"HC"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"Yes"	2	17	"Online"	"FPS"	"A4"	17	9	12	19	7	10	16	19	7	12
+229	"emmadcl@outlook.fr"	"HC"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"Yes"	2	17	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+230	"christopherferreira99@yahoo.fr"	"HC"	"PG"	"A"	30	"Male"	15	"Independent"	"Yes"	"Yes"	4	18	"Online"	"MMORPG"	"A3"	15	16	7	10	5	13	10	10	7	12
+231	"emilia.cruz0204@gmail.com"	"HC"	"HC"	"A"	20	"Female"	12	"Student"	"Yes"	"No"	0	9	"Offline"	"PartyGame"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+232	"denilsonhfp@gmail.com"	"HC"	"PG"	"B"	21	"Male"	15	"Student"	"Yes"	"Yes"	4	19	"Online"	"MMORPG"	"A6"	9	12	9	13	9	10	5	6	4	8
+233	"florentdufresne33@gmail.com"	"HC"	"PG"	"A"	22	"Male"	15	"Unemployed"	"Yes"	"Yes"	6	27	"Online"	"MMORPG"	"A6"	9	6	5	11	6	16	11	4	5	5
+237	"andrea.garrigues2@gmail.com"	"HC"	"HC"	"B"	19	"Female"	15	"Student"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+238	"Jimmy2244@hotmail.fr"	"HC"	"PG"	"A"	20	"Male"	12	"Student"	"Yes"	"Yes"	4	17	"Online"	"STR"	"A6"	20	15	15	15	7	15	17	13	14	11
+241	"quentinropero@yahoo.fr"	"HC"	"HC"	"B"	27	"Male"	17	"Employee"	"Yes"	"Yes"	3	16	"Both"	"STR"	"A6"	14	11	7	12	9	15	13	6	5	5
+242	"petilly@free.fr"	"HC"	"PG"	"B"	23	"Male"	17	"Employee"	"No"	"Yes"	6	25	"Both"	"FPS"	"A5"	18	11	12	15	11	14	10	13	12	8
+244	"julie.galinier1@gmail.com"	"HC"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	3	15	"Both"	"Gest"	"A4"	22	13	16	17	8	11	18	16	11	12
+246	"noemieleboeuf85290@gmail.com"	"HC"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"No"	2	15	"Both"	"Gest"	"A6"	6	4	4	4	3	14	4	4	3	3
+249	"sarahlempert7@gmail.com"	"HC"	"HC"	"B"	19	"Female"	15	"Student"	"Yes"	"Yes"	1	12	"Both"	"PartyGame"	"A4"	8	6	10	11	3	18	4	5	9	5
+250	"bencuomo3@gmail.com"	"HC"	"HC"	"B"	21	"Male"	15	"Employee"	"Yes"	"Yes"	1	14	"Both"	"FPS"	"A6"	13	11	8	6	3	15	13	8	8	4
+252	"juliettepochet62@gmail.com"	"HC"	"HC"	"B"	19	"Female"	15	"Student"	"Yes"	"Yes"	1	13	"Offline"	"RPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+253	"adelaide@riseup.net"	"HC"	"HC"	"B"	31	"Female"	15	"Other"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+259	"sibylleguemon@icloud.com"	"HC"	"HC"	"A"	22	"Female"	17	"Student"	"Yes"	"No"	1	12	"Offline"	"MMORPG"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+261	"florine.ldn@hotmail.fr"	"HC"	"HC"	"B"	21	"Female"	17	"Student"	"Yes"	"No"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+264	"alexleboeuf@sfr.fr"	"HC"	"PG"	"A"	22	"Male"	15	"Student"	"Yes"	"No"	5	20	"Offline"	"PartyGame"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+265	"alicedel23@gmail.com"	"HC"	"HC"	"A"	18	"Female"	15	"Student"	"Yes"	"No"	0	8	"Offline"	"FPS"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+267	"chevalier.chloe@outlook.fr"	"HC"	"HC"	"B"	21	"Female"	15	"Employee"	"Yes"	"No"	2	15	"Offline"	"Gest"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+268	"poittevin.damien@outlook.fr"	"HC"	"HC"	"B"	21	"Male"	15	"Student"	"Yes"	"Yes"	3	18	"Online"	"RPG"	"A6"	17	15	18	7	11	7	19	10	14	12
+269	"goran.loiseaux@gmail.com"	"HC"	"HC"	"B"	21	"Male"	15	"Student"	"Yes"	"No"	2	16	"Both"	"RPG"	"A6"	12	15	8	10	4	10	12	10	9	12
+270	"manon.mercier1017@gmail.com"	"HC"	"HC"	"A"	18	"Female"	15	"Student"	"Yes"	"No"	2	13	"Online"	"Sport"	"A4"	11	9	12	5	3	14	10	7	4	4
+271	"manon.debia@gmail.com"	"HC"	"HC"	"A"	22	"Female"	17	"Student"	"Yes"	"No"	0	9	"Both"	"PartyGame"	"A3"	12	7	8	10	4	18	15	8	5	5
+273	"jeanne310599@gmail.com"	"HC"	"HC"	"B"	21	"Female"	9	"Employee"	"Yes"	"No"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+278	"anna.correia@hotmail.fr"	"HC"	"PG"	"B"	21	"Female"	15	"Student"	"Yes"	"No"	5	27	"Offline"	"Gest"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+280	"emmadesmielles@hotmail.fr"	"HC"	"HC"	"B"	21	"Female"	17	"Student"	"Yes"	"No"	0	7	"Offline"	"Sport"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+281	"swanbukulin@yahoo.fr"	"HC"	"HC"	"A"	20	"Male"	15	"Student"	"Yes"	"No"	2	14	"Both"	"Sport"	"A6"	18	16	12	20	10	12	17	12	12	8
+283	"Basiledd@gmail.com "	"HC"	"PG"	"A"	24	"Male"	15	"Unemployed"	"No"	"Yes"	4	19	"Online"	"FPS"	"A4"	17	16	20	14	7	10	4	8	10	8
+286	"lijudu92@gmail.com"	"HC"	"HC"	"A"	20	"Female"	15	"Student"	"Yes"	"No"	3	15	"Both"	"Gest"	"A5"	22	13	15	17	15	16	16	17	11	10
+288	"coralie.massimo@yahoo.fr"	"HC"	"HC"	"A"	26	"Female"	17	"Independent"	"Yes"	"No"	2	14	"Online"	"STR"	"A6"	9	5	4	4	3	8	14	8	5	5
+289	"antonin.duvaux@laposte.net"	"HC"	"PG"	"B"	19	"Male"	15	"Student"	"Yes"	"Yes"	6	22	"Both"	"MOBA"	"A4"	22	12	10	17	8	18	12	9	11	9
+290	"ibrasow795@gmail.com"	"HC"	"HC"	"A"	20	"Male"	17	"Student"	"Yes"	"No"	2	13	"Online"	"MOBA"	"A6"	14	11	14	14	8	14	6	8	3	9
+292	"courbetcaroline1s2@gmail.com"	"HC"	"HC"	"A"	22	"Female"	15	"Student"	"Yes"	"No"	1	10	"Offline"	"MMORPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+293	"the_spyker117@live.be"	"HC"	"HC"	"A"	34	"Male"	0	"Employee"	"Yes"	"Yes"	2	15	"Online"	"FPS"	"A3"	16	10	8	15	6	10	12	9	10	8
+295	"Willy.kinsch@hotmail.com"	"HC"	"HC"	"A"	24	"Male"	12	"Student"	"Yes"	"Yes"	1	11	"Offline"	"PartyGame"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+297	"aurel.mandet@outlook.fr"	"HC"	"PG"	"A"	20	"Male"	15	"Student"	"Yes"	"Yes"	6	25	"Offline"	"RPG"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+298	"alanishouyoux@me.com"	"HC"	"HC"	"A"	24	"Female"	9	"Independent"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+300	"begnis.theo@yahoo.fr"	"HC"	"HC"	"A"	24	"Male"	15	"Employee"	"Yes"	"No"	3	17	"Online"	"MOBA"	"A6"	14	9	14	17	12	14	14	9	11	8
+301	"houyouxantonin@gmail.com"	"HC"	"HC"	"A"	22	"Male"	12	"Student"	"Yes"	"Yes"	1	10	"Both"	"MMORPG"	"A4"	12	14	10	13	4	10	14	8	11	4
+302	"meimei.mio@hotmail.com"	"HC"	"PG"	"A"	22	"Female"	17	"Student"	"Yes"	"No"	5	21	"Online"	"MMORPG"	"A6"	24	15	8	19	10	13	16	10	10	13
+303	"cmll.fouret@gmail.com"	"HC"	"HC"	"B"	19	"Female"	15	"Student"	"Yes"	"No"	3	17	"Offline"	"RPG"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+304	"lucie.delforge@hotmail.com"	"HC"	"HC"	"B"	25	"Female"	17	"Unemployed"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+312	"alexandre.timotic@yahoo.fr"	"HC"	"PG"	"A"	26	"Male"	15	"Student"	"Yes"	"Yes"	4	17	"Online"	"FPS"	"A5"	16	12	13	16	6	14	11	6	5	6
+313	"aurelie.soulima@gmail.com"	"HC"	"HC"	"A"	28	"Female"	17	"Employee"	"Yes"	"No"	0	9	"Offline"	"Gest"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+315	"nicolasnenadic@live.be"	"HC"	"HC"	"B"	23	"Male"	12	"Student"	"Yes"	"Yes"	3	17	"Online"	"FPS"	"A6"	21	17	14	17	11	14	6	6	5	10
+316	"neoxys@live.be"	"HC"	"HC"	"A"	40	"Female"	15	"Employee"	"No"	"Yes"	0	8	"Offline"	"Gest"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+318	"leonorefalkowski@gmail.com"	"HC"	"HC"	"A"	22	"Female"	15	"Student"	"Yes"	"Yes"	0	12	"Offline"	"PartyGame"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+319	"muldercoraline@gmail.com"	"PG"	"PG"	"B"	25	"Female"	12	"Employee"	"Yes"	"Yes"	7	30	"Online"	"MMORPG"	"A6"	10	18	9	20	13	14	20	20	15	11
+322	"rabot.rebecca@gmail.com"	"HC"	"HC"	"A"	30	"Female"	17	"Employee"	"Yes"	"Yes"	1	13	"Offline"	"MMORPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+323	"seghers_simon@msn.com"	"HC"	"HC"	"B"	35	"Male"	15	"Employee"	"Yes"	"No"	2	16	"Online"	"MMORPG"	"A6"	10	14	8	16	9	14	4	6	4	9
+324	"deymaurin@hotmail.fr"	"HC"	"HC"	"A"	30	"Male"	17	"Executive"	"Yes"	"No"	3	17	"Both"	"MMORPG"	"A6"	16	14	6	16	6	16	13	9	12	5
+327	"neru_pala@hotmail.fr"	"HC"	"HC"	"B"	35	"Male"	12	"Executive"	"Yes"	"No"	3	17	"Online"	"MMORPG"	"A5"	15	18	10	17	9	13	12	11	10	6
+328	"m.richer6@hotmail.fr"	"HC"	"PG"	"B"	27	"Male"	17	"Executive"	"Yes"	"No"	5	20	"Online"	"MMORPG"	"A6"	21	15	16	17	9	13	13	8	6	8
+329	"nico.papet@orange.fr"	"HC"	"HC"	"B"	25	"Male"	17	"Executive"	"No"	"Yes"	2	14	"Online"	"MMORPG"	"A6"	14	15	6	14	9	14	5	7	9	7
+335	"victoria.poupart@hotmail.com"	"HC"	"HC"	"A"	24	"Female"	15	"Student"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+336	"chaks_2222@hotmail.fr"	"HC"	"PG"	"B"	33	"Male"	12	"Executive"	"Yes"	"Yes"	6	22	"Online"	"MMORPG"	"A3"	18	18	7	19	8	17	7	8	5	7
+339	"derechter.t@gmail.com"	"HC"	"PG"	"A"	32	"Male"	15	"Employee"	"No"	"Yes"	5	22	"Offline"	"MMORPG"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+340	"javiera.leiva@mail.udp.cl"	"HC"	"HC"	"A"	26	"Female"	15	"Student"	"Yes"	"Yes"	1	13	"Offline"	"FPS"	"A2"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+341	"lumatte@hotmail.com"	"HC"	"PG"	"B"	23	"Male"	12	"Student"	"Yes"	"Yes"	6	24	"Online"	"MOBA"	"A6"	18	13	12	15	9	11	9	15	8	7
+344	"Assadabdulkader@gmail.com "	"HC"	"HC"	"B"	35	"Male"	15	"Student"	"Yes"	"No"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+345	"assadabdulkader@gmail.com"	"HC"	"HC"	"B"	35	"Male"	15	"Student"	"Yes"	"No"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+346	"marylou.petre@gmail.com"	"HC"	"PG"	"B"	21	"Female"	12	"Student"	"Yes"	"Yes"	4	19	"Online"	"MMORPG"	"A6"	20	7	13	10	7	11	10	12	11	13
+347	"tristandariouch@hotmail.com"	"HC"	"HC"	"B"	25	"Male"	17	"Unemployed"	"Yes"	"Yes"	1	10	"Both"	"RPG"	"A6"	10	7	12	6	3	9	8	7	4	7
+348	"jim_0071@msn.com"	"HC"	"HC"	"B"	27	"Male"	17	"Student"	"Yes"	"Yes"	1	12	"Online"	"MMORPG"	"A6"	14	13	11	16	8	11	16	8	14	7
+353	"meysschelcy@hotmail.com "	"HC"	"HC"	"A"	22	"Female"	15	"Student"	"Yes"	"No"	3	16	"Offline"	"TPS"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+360	"ilyasjouhari7@gmail.com"	"HC"	"PG"	"B"	23	"Male"	15	"Student"	"Yes"	"Yes"	6	21	"Online"	"MMORPG"	"A6"	15	12	11	13	6	13	11	9	8	9
+361	"megane2000@hotmail.be"	"HC"	"PG"	"B"	21	"Female"	12	"Student"	"Yes"	"Yes"	4	19	"Both"	"FPS"	"A5"	19	13	15	12	4	15	14	11	11	13
+368	"mahmood.rafeh@yahoo.com"	"HC"	"HC"	"A"	26	"Male"	17	"Independent"	"Yes"	"Yes"	3	18	"Online"	"MOBA"	"A6"	22	15	13	14	11	16	17	18	12	12
+370	"Elodiedelattre07@hotmail.com"	"HC"	"HC"	"A"	24	"Female"	17	"Executive"	"Yes"	"Yes"	2	16	"Online"	"TPS"	"A6"	13	10	10	16	10	16	16	11	10	10
+371	"Sakinavanesse@gmail.com"	"HC"	"HC"	"A"	20	"Female"	12	"Student"	"Yes"	"No"	2	14	"Online"	"RPG"	"A6"	15	11	11	16	8	13	12	9	12	7
+377	"comebuffet@gmail.com"	"HC"	"PG"	"B"	19	"Male"	15	"Student"	"Yes"	"No"	5	21	"Online"	"MOBA"	"A6"	15	9	15	18	6	17	10	7	15	14
+379	"evapasquet028@gmail.com"	"HC"	"HC"	"A"	18	"Female"	15	"Student"	"No"	"No"	2	14	"Both"	"PartyGame"	"A6"	13	8	10	10	3	10	19	15	10	8
+381	"Kenzo1130@hotmail.be "	"HC"	"HC"	"B"	23	"Male"	15	"Student"	"Yes"	"Yes"	1	11	"Both"	"FPS"	"A6"	10	9	7	15	7	10	19	10	12	7
+385	"depreze123@gmail.com"	"HC"	"PG"	"A"	34	"Male"	6	"Unemployed"	"Yes"	"No"	5	23	"Online"	"MMORPG"	"A5"	17	15	9	15	6	12	15	14	14	13
+386	"seyourilias@gmail.com"	"HC"	"HC"	"A"	22	"Male"	15	"Student"	"Yes"	"No"	2	12	"Offline"	"RPG"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+388	"Adrien1298@hotmail.com"	"HC"	"HC"	"B"	23	"Male"	0	"Unemployed"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+390	"mathildedelruelle@gmail.com"	"HC"	"HC"	"A"	22	"Female"	17	"Student"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+391	"colle.marie@outlook.com"	"HC"	"PG"	"B"	27	"Female"	9	"Employee"	"Yes"	"Yes"	5	20	"Online"	"FPS"	"A4"	24	18	13	20	11	14	18	15	15	13
+392	"noeljonathan94@gmail.com"	"HC"	"HC"	"B"	27	"Male"	17	"Student"	"Yes"	"No"	3	19	"Both"	"RPG"	"A5"	11	18	8	7	4	11	10	8	3	11
+394	"starkiller.emerson@hotmail.com"	"HC"	"HC"	"B"	21	"Male"	9	"Unemployed"	"Yes"	"Yes"	2	15	"Both"	"FPS"	"A4"	10	12	5	13	10	11	12	11	11	11
+395	"lara.navez@ulb.be"	"HC"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"Yes"	2	12	"Offline"	"Gest"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+400	"phoebebruyere@gmail.com"	"HC"	"HC"	"A"	22	"Female"	12	"Student"	"Yes"	"Yes"	2	13	"Offline"	"RPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+404	"julienmenuh@hotmail.be"	"HC"	"PG"	"B"	25	"Male"	17	"Student"	"Yes"	"Yes"	6	23	"Offline"	"STR"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+407	"marthy_1230@hotmail.com"	"HC"	"PG"	"A"	24	"Male"	12	"Employee"	"Yes"	"No"	4	21	"Online"	"FPS"	"A6"	10	5	7	13	5	18	9	6	4	7
+410	"W.t.porreweck@gmail.com"	"HC"	"HC"	"B"	23	"Male"	17	"Student"	"Yes"	"No"	2	13	"Offline"	"FPS"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+413	"oceanefcn@hotmail.com"	"HC"	"PG"	"A"	22	"Female"	15	"Student"	"Yes"	"No"	6	27	"Online"	"Gest"	"A6"	10	8	7	16	9	16	12	12	12	15
+414	"sarah.cornil05@gmail.com"	"HC"	"HC"	"A"	22	"Female"	15	"Student"	"Yes"	"No"	2	12	"Offline"	"Gest"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+416	"meddybehogne@gmail.com "	"HC"	"HC"	"A"	22	"Male"	0	"Employee"	"Yes"	"No"	0	8	"Online"	"PartyGame"	"A3"	6	9	9	11	5	13	5	4	7	4
+420	"Camille.Aitchedji@ulb.be"	"HC"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	1	9	"Offline"	"PartyGame"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+423	"daratosfleur@gmail.com"	"HC"	"PG"	"B"	23	"Female"	12	"Student"	"Yes"	"Yes"	4	18	"Online"	"FPS"	"A5"	26	13	16	20	12	20	20	14	10	10
+424	"arthurzandona2508@hotmail.com"	"HC"	"PG"	"B"	27	"Male"	12	"Unemployed"	"Yes"	"Yes"	4	15	"Online"	"FPS"	"A6"	16	9	8	15	9	11	14	7	10	7
+425	"johan.krawczyk@hotmail.com"	"HC"	"PG"	"A"	26	"Male"	15	"Student"	"Yes"	"Yes"	6	23	"Online"	"FPS"	"A5"	19	14	13	17	7	10	11	9	13	7
+427	"clemence.baudoin@hotmail.com"	"HC"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+428	"clemence.baudoin@hotmail.com "	"HC"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+430	"hh.danna@gmail.com"	"HC"	"HC"	"A"	26	"Female"	17	"Student"	"Yes"	"No"	2	13	"Offline"	"RPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+431	"claradistefano@outlook.com"	"HC"	"HC"	"B"	23	"Female"	15	"Student"	"No"	"Yes"	2	13	"Offline"	"Gest"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+432	"maximecarpiaux@gmail.com"	"HC"	"HC"	"A"	24	"Male"	15	"Unemployed"	"Yes"	"Yes"	0	10	"Offline"	"Sport"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+434	"marion.mamier@yahoo.com "	"HC"	"PG"	"B"	19	"Female"	15	"Unemployed"	"Yes"	"No"	4	17	"Online"	"FPS"	"A6"	13	9	15	18	10	18	15	12	10	11
+437	"debo5559@hotmail.fr"	"HC"	"HC"	"A"	32	"Female"	12	"Employee"	"Yes"	"Yes"	1	12	"Online"	"FPS"	"A6"	19	9	10	18	13	14	13	9	6	7
+441	"Ouikassirania@gmail.com"	"HC"	"HC"	"B"	23	"Female"	17	"Student"	"Yes"	"No"	3	16	"Online"	"FPS"	"A5"	12	11	18	18	14	11	8	12	9	11
+442	"melissamartins@outlook.fr"	"PG"	"PG"	"A"	30	"Female"	12	"Employee"	"Yes"	"No"	7	24	"Online"	"FPS"	"A5"	21	14	13	17	12	12	16	16	12	12
+444	"meddy.behogne@gmail.com"	"HC"	"HC"	"A"	22	"Male"	6	"Employee"	"Yes"	"No"	0	8	"Online"	"TPS"	"A3"	6	4	4	4	3	16	4	4	3	3
+445	"kenzo1130@hotmail.be"	"HC"	"HC"	"B"	23	"Male"	15	"Student"	"Yes"	"Yes"	0	11	"Both"	"FPS"	"A4"	13	14	9	11	6	8	16	12	11	7
+448	"emel.dalgic@hotmail.com"	"HC"	"PG"	"B"	23	"Female"	15	"Student"	"Yes"	"Yes"	4	15	"Both"	"RPG"	"A4"	17	10	10	19	8	10	16	6	10	7
+453	"vdborght.arnaud@gmail.com"	"HC"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	3	16	"Online"	"MOBA"	"A5"	10	5	8	11	6	15	5	7	5	6
+458	"caroline.pire16@gmail.com"	"HC"	"HC"	"B"	25	"Female"	17	"Student"	"Yes"	"No"	0	8	"Offline"	"MMORPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+459	"cindy.mottet@ulb.be"	"PG"	"PG"	"A"	26	"Female"	15	"Student"	"Yes"	"No"	7	26	"Online"	"STR"	"A4"	17	13	5	15	9	7	6	7	7	7
+463	"w.osias@hotmail.com"	"HC"	"HC"	"A"	28	"Male"	15	"Student"	"Yes"	"No"	3	16	"Both"	"FPS"	"A4"	19	11	12	10	7	10	8	8	11	8
+466	"gaspimini@gmail.com"	"HC"	"PG"	"A"	26	"Male"	12	"Student"	"Yes"	"No"	6	23	"Online"	"MOBA"	"A6"	18	10	11	11	4	8	13	6	7	7
+467	"ro.pierre@laposte.net "	"HC"	"PG"	"A"	24	"Male"	12	"Student"	"Yes"	"Yes"	4	19	"Both"	"MMORPG"	"A6"	18	18	18	14	11	9	18	13	13	12
+473	"Lisa-Marie.m.c@hotmail.com"	"HC"	"HC"	"A"	20	"Female"	15	"Employee"	"Yes"	"Yes"	1	9	"Online"	"FPS"	"A5"	11	8	6	16	8	14	17	6	5	6
+474	"philippine.moret@ulb.be"	"HC"	"PG"	"B"	23	"Female"	15	"Student"	"Yes"	"No"	4	17	"Both"	"RPG"	"A4"	15	13	6	15	6	8	18	14	8	13
+476	"Fastylena@gmail.com "	"HC"	"PG"	"B"	23	"Female"	12	"Unemployed"	"Yes"	"Yes"	5	18	"Online"	"MOBA"	"A4"	16	10	12	10	7	11	8	8	6	5
+477	"permentiers.gaetan@gmail.com"	"HC"	"HC"	"A"	22	"Male"	15	"Student"	"Yes"	"No"	3	17	"Both"	"FPS"	"A4"	13	12	10	10	5	8	16	8	9	7
+483	"surifore@hotmail.com"	"HC"	"HC"	"B"	29	"Male"	17	"Employee"	"Yes"	"No"	1	12	"Offline"	"MMORPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+487	"kennylushiku@gmail.com"	"HC"	"HC"	"A"	24	"Male"	17	"Student"	"Yes"	"No"	0	11	"Offline"	"FPS"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+490	"deschuyt.severine@hotmail.fr"	"HC"	"PG"	"B"	25	"Female"	15	"Student"	"Yes"	"Yes"	5	24	"Offline"	"RPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+492	"loan.lissens@hotmail.com"	"HC"	"PG"	"B"	19	"Male"	12	"Student"	"Yes"	"No"	4	16	"Online"	"MOBA"	"A6"	18	8	6	14	6	10	15	8	8	6
+495	"dogan.serhat@outlook.com"	"HC"	"HC"	"B"	23	"Male"	12	"Student"	"Yes"	"No"	1	11	"Both"	"MMORPG"	"A6"	11	11	9	19	11	15	10	9	5	6
+500	"souf-style@hotmail.fr"	"HC"	"PG"	"B"	25	"Male"	12	"Student"	"Yes"	"No"	4	19	"Online"	"MOBA"	"A6"	18	11	13	11	9	9	17	10	3	10
+506	"gabrielle.antoine@hotmail.com "	"HC"	"PG"	"B"	25	"Female"	15	"Student"	"Yes"	"Yes"	4	17	"Offline"	"RPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+510	"Navermeu@gmail.com "	"HC"	"PG"	"A"	30	"Female"	17	"Employee"	"Yes"	"No"	4	16	"Both"	"MMORPG"	"A6"	13	9	4	14	12	10	20	8	10	11
+511	"clementgottlieb7995@live.be"	"HC"	"HC"	"B"	25	"Male"	17	"Employee"	"Yes"	"Yes"	1	11	"Both"	"RPG"	"A6"	12	7	6	13	4	14	18	10	10	5
+512	"laxxter89@gmail.com "	"HC"	"PG"	"B"	31	"Other"	6	"Unemployed"	"Yes"	"No"	6	23	"Both"	"FPS"	"A5"	17	16	7	14	6	10	16	15	11	11
+513	"miscosasbryantete999@gmail.com"	"PG"	"PG"	"B"	21	"Male"	12	"Student"	"Yes"	"No"	7	25	"Online"	"TPS"	"A5"	21	12	14	11	8	10	14	14	9	12
+515	"mouharance2020chlhh@gmail.com"	"HC"	"PG"	"B"	25	"Male"	17	"Student"	"Yes"	"No"	5	20	"Online"	"Gest"	"A6"	19	16	10	14	5	9	9	12	4	9
+516	"robincourtequisse@outlook.com"	"HC"	"HC"	"B"	25	"Male"	17	"Unemployed"	"Yes"	"No"	2	16	"Offline"	"STR"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+517	"eliana-asvestaris19@hotmail.com"	"HC"	"HC"	"B"	25	"Female"	17	"Student"	"Yes"	"No"	2	14	"Offline"	"STR"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+525	"leb.matteo@gmail.com"	"HC"	"HC"	"B"	21	"Male"	12	"Student"	"No"	"Yes"	2	14	"Online"	"MOBA"	"A5"	13	11	7	6	7	9	17	6	10	9
+527	"tomi.piirainen@hotmail.com"	"HC"	"HC"	"A"	22	"Male"	12	"Student"	"Yes"	"No"	3	15	"Both"	"FPS"	"A6"	17	9	11	13	8	11	11	11	9	9
+528	"alfred.duquesne@ulb.be"	"HC"	"HC"	"A"	20	"Male"	12	"Student"	"Yes"	"Yes"	1	12	"Online"	"FPS"	"A4"	19	10	18	9	4	15	4	5	10	7
+529	"mgmartimgarvais@gmail.com"	"HC"	"HC"	"A"	24	"Male"	17	"Student"	"Yes"	"Yes"	3	18	"Both"	"FPS"	"A6"	14	12	11	16	9	14	11	6	8	8
+530	"ptitkonrad@gmail.com"	"HC"	"HC"	"A"	20	"Male"	12	"Student"	"Yes"	"No"	0	10	"Online"	"MOBA"	"A6"	10	10	6	13	3	15	6	10	5	3
+532	"gauthier909@hotmail.com"	"HC"	"PG"	"B"	25	"Male"	15	"Student"	"Yes"	"No"	6	24	"Offline"	"FPS"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+535	"edouard.duq@gmail.com"	"HC"	"PG"	"A"	22	"Male"	15	"Student"	"No"	"Yes"	4	18	"Online"	"FPS"	"A4"	22	18	15	14	13	12	15	18	14	13
+539	"Fandevalence@yahoo.fr"	"HC"	"HC"	"A"	32	"Male"	17	"Executive"	"Yes"	"No"	2	15	"Both"	"Sport"	"A4"	15	8	11	14	8	15	13	11	8	8
+542	"charly.fillon@gmail.com"	"HC"	"HC"	"B"	23	"Male"	15	"Student"	"Yes"	"Yes"	0	9	"Offline"	"MMORPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+546	"ednaduvinage@gmail.com"	"HC"	"HC"	"B"	31	"Female"	17	"Employee"	"Yes"	"No"	2	11	"Offline"	"RPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+548	"mnn.dlb@gmail.com"	"HC"	"HC"	"A"	24	"Female"	15	"Student"	"Yes"	"Yes"	1	10	"Offline"	"Gest"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+552	"v_vissotsky@hotmail.com"	"HC"	"HC"	"A"	26	"Male"	17	"Student"	"Yes"	"No"	2	15	"Both"	"MOBA"	"A5"	17	15	11	14	11	13	9	6	3	9
+554	"Jonathan.jacquemart@outlook.com"	"HC"	"PG"	"A"	28	"Male"	17	"Employee"	"No"	"Yes"	5	19	"Offline"	"STR"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+562	"collinlefebvre1999@gmail.com"	"HC"	"HC"	"B"	21	"Male"	12	"Student"	"Yes"	"Yes"	2	16	"Online"	"FPS"	"A6"	15	13	14	11	7	16	16	6	12	7
+563	"victor.wautier@gmail.com"	"HC"	"HC"	"A"	22	"Male"	12	"Student"	"Yes"	"Yes"	2	14	"Online"	"MOBA"	"A6"	10	13	12	15	4	18	9	5	3	8
+564	"laura.sciot@hotmail.com"	"HC"	"HC"	"A"	24	"Female"	15	"Student"	"No"	"Yes"	2	15	"Online"	"FPS"	"A4"	12	11	8	9	3	10	8	5	9	5
+565	"thomas_giets@hotmail.com"	"HC"	"HC"	"A"	24	"Male"	15	"Student"	"No"	"Yes"	3	17	"Online"	"FPS"	"A3"	10	13	10	12	5	16	11	11	3	8
+568	"qanthony.aq@gmail.com"	"HC"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	1	10	"Online"	"FPS"	"A4"	10	8	7	12	3	16	6	7	3	5
+571	"eliot.tomson@ulb.be"	"HC"	"HC"	"A"	20	"Male"	15	"Student"	"Yes"	"No"	3	15	"Online"	"MOBA"	"A6"	16	11	10	12	4	12	12	7	7	8
+573	"dalmaziodavid@gmail.com"	"HC"	"HC"	"B"	19	"Male"	12	"Student"	"Yes"	"No"	2	13	"Online"	"RPG"	"A6"	11	8	6	14	5	16	10	5	4	6
+575	"t.vanhenden@gmail.com"	"HC"	"PG"	"B"	21	"Male"	12	"Student"	"Yes"	"Yes"	6	24	"Both"	"FPS"	"A6"	18	13	7	16	9	12	15	11	12	9
+578	"nathandelos@hotmail.fr"	"HC"	"HC"	"B"	21	"Male"	12	"Student"	"Yes"	"No"	3	15	"Both"	"RPG"	"A6"	17	13	11	12	11	14	20	20	10	11
+579	"Alice.dewouters@gmail.com"	"HC"	"HC"	"A"	26	"Female"	17	"Employee"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+580	"alice.dewouters@gmail.com"	"HC"	"HC"	"A"	26	"Female"	17	"Employee"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+582	"ilyas.fatih00@gmail.com"	"HC"	"HC"	"B"	19	"Male"	12	"Student"	"Yes"	"No"	1	12	"Online"	"Sport"	"A6"	9	5	6	5	4	17	5	7	4	5
+583	"incantessimo86@Yahoo.fr"	"HC"	"PG"	"A"	34	"Female"	17	"Independent"	"Yes"	"No"	5	22	"Both"	"MMORPG"	"A5"	24	17	16	17	12	11	17	18	12	12
+588	"dusartkevin@gmail.com"	"HC"	"HC"	"A"	30	"Male"	17	"Independent"	"Yes"	"Yes"	1	11	"Offline"	"RPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+589	"julieug@orange.fr"	"HC"	"HC"	"A"	20	"Female"	0	"Student"	"Yes"	"No"	1	10	"Offline"	"STR"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+591	"lolae0@hotmail.com"	"HC"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"No"	2	13	"Offline"	"PartyGame"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+593	"charles.jabe@hotmail.be"	"HC"	"HC"	"A"	20	"Male"	12	"Student"	"Yes"	"No"	0	9	"Offline"	"FPS"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+594	"incantessimo86@yahoo.fr"	"PG"	"PG"	"A"	34	"Female"	17	"Independent"	"Yes"	"No"	7	22	"Both"	"FPS"	"A5"	24	16	15	16	12	11	16	16	12	12
+600	"theo.aslanides@gmail.com"	"HC"	"PG"	"B"	25	"Male"	15	"Student"	"Yes"	"Yes"	4	19	"Online"	"FPS"	"A6"	16	9	16	16	12	13	13	11	6	9
+601	"litalynda@yahoo.com"	"HC"	"PG"	"A"	26	"Female"	17	"Student"	"Yes"	"No"	6	22	"Online"	"MMORPG"	"A4"	26	15	16	12	5	15	8	9	8	10
+605	"rous.pauline@gmail.com"	"HC"	"HC"	"A"	26	"Female"	17	"Employee"	"Yes"	"No"	3	14	"Offline"	"MMORPG"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+606	"anton.merlin@gmail.com"	"HC"	"PG"	"A"	28	"Male"	15	"Employee"	"No"	"Yes"	4	18	"Online"	"MMORPG"	"A5"	18	17	11	13	8	11	18	7	13	7
+607	"martin.fonteyn@hotmail.com"	"HC"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	0	11	"Offline"	"PartyGame"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+608	"aviatorch1995@gmail.com"	"HC"	"HC"	"A"	26	"Male"	15	"Student"	"Yes"	"Yes"	1	12	"Online"	"MMORPG"	"A6"	16	7	12	9	7	14	8	6	4	6
+610	"jeremie.potaznik@gmail.com"	"HC"	"PG"	"B"	23	"Male"	15	"Employee"	"No"	"No"	6	23	"Both"	"STR"	"A5"	13	11	8	17	10	14	12	13	12	9
+613	"flooclock@hotmail.fr"	"HC"	"HC"	"B"	25	"Male"	17	"Employee"	"Yes"	"No"	0	7	"Both"	"FPS"	"A3"	15	15	11	16	9	13	10	10	7	5
+615	"maellevandewalle.76@gmail.com "	"HC"	"PG"	"A"	26	"Female"	17	"Employee"	"Yes"	"Yes"	5	19	"Offline"	"MMORPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+617	"severinedegheele@hotmail.com"	"HC"	"HC"	"A"	22	"Female"	12	"Student"	"Yes"	"Yes"	1	12	"Online"	"Gest"	"A4"	16	15	12	11	5	11	13	12	8	7
+618	"loic.vanhecke@live.com"	"HC"	"PG"	"B"	21	"Male"	12	"Student"	"Yes"	"Yes"	5	23	"Online"	"FPS"	"A6"	19	15	7	10	3	6	15	10	8	12
+619	"marley.wattier@ulb.be"	"HC"	"PG"	"B"	21	"Female"	12	"Student"	"Yes"	"No"	4	17	"Online"	"Gest"	"A5"	13	15	4	12	4	6	16	18	10	15
+621	"flolouicis@hotmail.fr"	"HC"	"HC"	"B"	23	"Male"	12	"Unemployed"	"Yes"	"No"	3	15	"Both"	"FPS"	"A6"	10	7	6	14	3	13	14	7	6	10
+626	"arnaud.peeters95@gmail.com"	"HC"	"HC"	"A"	26	"Male"	17	"Employee"	"Yes"	"Yes"	1	13	"Both"	"FPS"	"A3"	14	11	8	16	8	15	15	10	11	7
+629	"romainmulkay@hotmail.com"	"HC"	"HC"	"B"	25	"Male"	17	"Student"	"Yes"	"No"	0	11	"Offline"	"STR"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+631	"joachim.balis@outlook.com"	"HC"	"HC"	"B"	23	"Male"	12	"Employee"	"Yes"	"No"	1	11	"Online"	"RPG"	"A3"	12	11	10	8	4	19	4	4	3	7
+633	"castlesuceurs@aol.fr"	"HC"	"HC"	"B"	25	"Male"	17	"Employee"	"No"	"No"	3	16	"Online"	"FPS"	"A6"	15	15	11	16	12	18	16	4	9	6
+634	"kowshikkanandarajah@gmail.com"	"HC"	"PG"	"B"	15	"Male"	0	"Student"	"Yes"	"No"	6	24	"Online"	"MOBA"	"A6"	21	11	17	12	10	9	7	14	7	9
+637	"leoseyers@gmail.com"	"HC"	"HC"	"B"	29	"Male"	17	"Independent"	"Yes"	"Yes"	3	19	"Online"	"MMORPG"	"A4"	14	16	16	18	9	13	6	8	6	9
+641	"maxim1404@gmail.com"	"HC"	"HC"	"A"	22	"Male"	9	"Student"	"Yes"	"No"	3	15	"Both"	"MOBA"	"A5"	9	16	9	17	10	11	5	5	7	9
+644	"archibald6587@gmail.com"	"HC"	"HC"	"B"	29	"Male"	17	"Unemployed"	"Yes"	"Yes"	2	13	"Online"	"Sport"	"A5"	14	14	13	13	4	15	15	11	6	7
+646	"gjini-johan@outlook.fr"	"HC"	"HC"	"B"	21	"Male"	12	"Student"	"Yes"	"Yes"	3	16	"Online"	"MOBA"	"A6"	20	14	14	12	7	13	16	9	7	8
+648	"gauthamanandarajah11@gmail.com"	"HC"	"HC"	"B"	27	"Male"	0	"Unemployed"	"Yes"	"No"	0	7	"Online"	"TPS"	"A3"	6	4	6	11	4	20	5	7	3	4
+650	"fionaprassas@gmail.com"	"HC"	"HC"	"B"	21	"Female"	12	"Student"	"Yes"	"Yes"	2	12	"Both"	"PartyGame"	"A4"	9	7	5	8	3	14	7	5	4	6
+651	"ecececazer@gmail.com"	"HC"	"HC"	"A"	24	"Male"	17	"Student"	"Yes"	"Yes"	1	12	"Both"	"FPS"	"A5"	10	7	8	7	3	12	12	7	7	9
+656	"burak-sogutlu@hotmail.com"	"HC"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	3	18	"Both"	"RPG"	"A6"	18	10	11	7	3	13	10	8	10	8
+659	"oumayma.acha97@outlook.com"	"HC"	"HC"	"A"	24	"Female"	12	"Student"	"Yes"	"No"	0	7	"Offline"	"Sport"	"A4"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+661	"charlie@debecker.org"	"HC"	"PG"	"A"	24	"Male"	17	"Student"	"Yes"	"Yes"	5	19	"Online"	"FPS"	"A3"	18	8	10	11	6	17	10	8	12	11
+665	"lana.mordi@yahoo.com"	"HC"	"PG"	"A"	22	"Female"	12	"Student"	"Yes"	"No"	4	19	"Online"	"TPS"	"A5"	20	13	14	11	11	13	15	11	3	8
+666	"florian.soyez@hotmail.com"	"HC"	"HC"	"A"	18	"Male"	12	"Student"	"Yes"	"No"	1	14	"Both"	"RPG"	"A6"	15	11	11	15	9	16	13	12	4	6
+667	"anaisverbist@gmail.com "	"HC"	"HC"	"B"	19	"Female"	12	"Student"	"No"	"No"	1	10	"Both"	"Sport"	"A6"	12	6	7	6	3	17	5	4	3	3
+668	"philippe3parmentier@gmail.com"	"HC"	"PG"	"B"	21	"Male"	12	"Student"	"Yes"	"Yes"	4	20	"Online"	"MMORPG"	"A6"	22	17	8	18	10	16	10	7	11	11
+672	"patientnlabu20@gmail.com"	"HC"	"PG"	"A"	24	"Male"	12	"Other"	"Yes"	"No"	6	24	"Online"	"FPS"	"A5"	19	14	15	12	6	9	14	7	5	11
+673	"nicolasdel20@gmail.com"	"HC"	"HC"	"B"	27	"Male"	15	"Student"	"Yes"	"Yes"	3	13	"Online"	"FPS"	"A6"	11	20	12	10	11	12	12	11	14	6
+674	"hugopetry1@gmail.com"	"HC"	"HC"	"B"	27	"Male"	17	"Employee"	"Yes"	"Yes"	1	12	"Both"	"RPG"	"A6"	18	11	10	18	5	10	15	9	7	8
+676	"niels.vanhecke9@gmail.com"	"HC"	"PG"	"A"	18	"Male"	12	"Student"	"No"	"No"	4	22	"Online"	"FPS"	"A4"	21	15	5	18	10	14	16	15	12	14
+681	"37587@heb.be"	"PG"	"PG"	"B"	29	"Female"	15	"Unemployed"	"Yes"	"No"	7	21	"Offline"	"FPS"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+682	"justine.dreumont@outlook.fr"	"HC"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"No"	3	15	"Offline"	"FPS"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+683	"mikadepreter@gmail.com"	"HC"	"HC"	"A"	22	"Male"	15	"Student"	"Yes"	"Yes"	3	16	"Online"	"FPS"	"A5"	14	12	9	15	9	12	14	11	4	7
+686	"nathandelil@outlook.com"	"HC"	"PG"	"B"	21	"Male"	12	"Student"	"Yes"	"No"	6	25	"Both"	"RPG"	"A5"	16	9	4	9	7	6	16	11	3	10
