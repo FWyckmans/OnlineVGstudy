@@ -67,6 +67,7 @@ PSToRemove <- c(dir(Datapath, pattern = ".log.gz"),
                 "PARTICIPANT_VideoGameExperiment_2021-03-01_23h20.26.498.csv",
                 "PARTICIPANT_VideoGameExperiment_2021-03-01_23h25.00.418.csv",
                 "PARTICIPANT_VideoGameExperiment_2021-03-02_18h18.34.068.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-07-16_13h50.16.556.csv",
 
                 
                 # Order B
@@ -108,6 +109,10 @@ PSToRemove <- c(dir(Datapath, pattern = ".log.gz"),
                 "PARTICIPANT_VideoGameExperiment_2021-04-15_17h35.28.016.csv",
                 "PARTICIPANT_VideoGameExperiment_2021-04-15_18h36.51.760.csv",
                 "PARTICIPANT_VideoGameExperiment_2021-04-17_14h17.26.205.csv",
+                "PARTICIPANT_VideoGameExperiment_2021-07-28_16h20.45.807.csv",
+                "PARTICIPANT_VideoGameExperimentOrderB_2021-07-20_16h19.38.094.csv",
+                "PARTICIPANT_VideoGameExperimentOrderB_2021-07-20_22h21.35.346.csv",
+                "PARTICIPANT_VideoGameExperimentOrderB_2021-07-23_12h52.33.414.csv",
                 
                 # Not finished
                 "PARTICIPANT_VideoGameExperiment_2021-03-26_12h56.53.257.csv", #Vulcana
