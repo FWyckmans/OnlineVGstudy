@@ -99,7 +99,7 @@ dIAT <- select(dLS2, NS, I1:I20)
 for (i in colnames(dIAT[2:length(dIAT)])) {
   dIAT[,i] <- str_remove(dIAT[,i], "A")
   dIAT[,i] <- as.numeric(dIAT[,i])
-  dIAT[,i] <- dIAT[,i] - 1
+  dIAT[,i] <- dIAT[,i]
 }
 
 dIAT <- mutate(dIAT, IAT = I1 + I2 + I3 + I4 + I5 + I6 + I7 + I8 + I9 + I10 +
