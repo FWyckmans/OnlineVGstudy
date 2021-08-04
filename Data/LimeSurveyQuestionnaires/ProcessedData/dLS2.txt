@@ -190,3 +190,12 @@
 200	"niels.vanhecke9@gmail.com"	1	1	1	52	17	37	44	8	12	7	4	13	40	27	10
 201	"justine.dreumont@outlook.fr"	1	1	1	49	27	42	44	8	14	7	4	11	40	16	4
 202	"nathandelil@outlook.com"	1	1	1	46	20	30	53	11	12	6	8	16	30	45	11
+203	"Clara.Trentin@ulb.be"	1	1	1	56	28	32	57	11	14	12	8	12	29	30	7
+204	"sarah.trentin@ulb.be"	1	1	1	51	23	42	58	16	12	10	9	11	30	28	12
+205	"lucniollet@gmail.com"	1	1	1	56	27	37	56	16	16	4	4	16	40	38	11
+206	"damienneantoine@gmail.com"	0	1	0	70	31	43	50	13	16	5	4	12	36	37	0
+207	"pauline.annaert@hotmail.com"	1	1	1	44	13	42	48	16	14	5	7	6	42	41	6
+208	"37587@heb.be"	1	1	1	68	24	23	57	12	12	12	9	12	40	32	0
+210	"viannaert@hotmail.com"	0	0	1	26	11	30	50	14	14	10	8	4	38	19	0
+211	"ayel_26@msn.com"	1	1	1	37	8	26	48	8	13	9	6	12	42	20	4
+212	"aymeric.henrard@gmail.com"	1	1	1	41	21	33	49	9	11	8	13	8	29	31	8

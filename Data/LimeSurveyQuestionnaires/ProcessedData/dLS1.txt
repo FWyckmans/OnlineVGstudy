@@ -284,3 +284,14 @@
 682	"justine.dreumont@outlook.fr"	"HC"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"No"	3	15	"Offline"	"FPS"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
 683	"mikadepreter@gmail.com"	"HC"	"HC"	"A"	22	"Male"	15	"Student"	"Yes"	"Yes"	3	16	"Online"	"FPS"	"A5"	14	12	9	15	9	12	14	11	4	7
 686	"nathandelil@outlook.com"	"HC"	"PG"	"B"	21	"Male"	12	"Student"	"Yes"	"No"	6	25	"Both"	"RPG"	"A5"	16	9	4	9	7	6	16	11	3	10
+687	"Clara.Trentin@ulb.be"	"HC"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"No"	2	17	"Offline"	"PartyGame"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+689	"sarah.trentin@ulb.be"	"HC"	"HC"	"B"	23	"Female"	15	"Student"	"Yes"	"No"	0	9	"Offline"	"MMORPG"	"A6"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+691	"Laibajshd@yahoo.com "	"HC"	"PG"	"B"	21	"Female"	12	"Student"	"Yes"	"No"	6	27	"Both"	"TPS"	"A4"	18	15	17	20	15	14	10	20	14	15
+694	"lucniollet@gmail.com"	"PG"	"PG"	"A"	28	"Male"	15	"Independent"	"Yes"	"No"	7	23	"Both"	"MMORPG"	"A5"	24	16	17	16	13	12	18	17	12	12
+695	"damienneantoine@gmail.com"	"PG"	"PG"	"A"	30	"Female"	12	"Unemployed"	"Yes"	"No"	7	35	"Both"	"MMORPG"	"A6"	27	19	17	19	14	10	18	17	14	12
+696	"laiba.jamshaid@ulb.be"	"HC"	"PG"	"B"	21	"Female"	12	"Student"	"Yes"	"No"	5	24	"Both"	"PartyGame"	"A4"	21	16	17	16	10	10	17	19	13	14
+697	"pauline.annaert@hotmail.com"	"HC"	"HC"	"A"	24	"Female"	17	"Student"	"Yes"	"Yes"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+699	"viannaert@hotmail.com"	"HC"	"HC"	"A"	64	"Female"	17	"Employee"	"Yes"	"No"	NA	NA	NA	NA	""	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+700	"ayel_26@msn.com"	"HC"	"HC"	"B"	27	"Female"	17	"Student"	"Yes"	"No"	0	8	"Offline"	"FPS"	"A5"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+701	"claramaindiaux@hotmail.com"	"HC"	"HC"	"B"	23	"Female"	15	"Student"	"No"	"No"	3	15	"Offline"	"MMORPG"	"A3"	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+703	"aymeric.henrard@gmail.com"	"HC"	"HC"	"A"	22	"Male"	12	"Student"	"Yes"	"No"	2	15	"Online"	"FPS"	"A6"	13	8	9	14	8	16	17	6	5	8

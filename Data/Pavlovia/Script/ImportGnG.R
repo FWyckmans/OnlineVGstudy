@@ -15,7 +15,8 @@ PSToRemove <- c(dir(Datapath, pattern = ".log.gz"),
                 dir(Datapath, pattern = ".xlsx"),
                 
                 # Test
-                "1_VideoGameExperimentOrderB_2020_Dec_21_1057.csv"
+                "1_VideoGameExperimentOrderB_2020_Dec_21_1057.csv",
+                "PARTICIPANT_VideoGameExperiment2_2021-08-02_15h23.25.110.csv"
                 ) 
 
 
